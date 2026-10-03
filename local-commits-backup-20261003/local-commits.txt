@@ -1,0 +1,2699 @@
+6608a4c Merge branch 'dev'
+8b2b5dd fix typo
+c7f8351 workflow: fix error path
+f5b42d7 workflow: add smart core sync
+2be602a chore: add core update for smart group
+c4589f1 Merge branch 'dev'
+ce71bab workflow: remove geoip.dat auto update
+da63674 chore: ac option show v4&v6 infos and lists sort
+811f54b #4503
+cfa63ca Chore: update third-party resources
+fe91aeb chore: add disable-ipv4 and disable-ipv6 dns option
+7ae5979 Chore: update third-party resources
+01e0568 0.46.087
+c3c7565 fix #4496
+ad34273 Chore: update third-party resources
+59cdfc2 Chore: update third-party resources
+99ec39a Chore: update third-party resources
+fdfd032 Merge branch 'dev'
+70c4f14 chore: refine
+51a7ee4 fix #4487
+7c28cd3 fix dist
+1414316 workflow: use rsync
+0217f98 workflow: check before commit
+7c9f32b workflow: MetaCubeXD & Yacd
+7617bc6 Chore: update resources: MetaCubeXD Yacd Zashboard
+b44c488 workflow: zashboard path
+0825afd Chore: update resources: MetaCubeXD Yacd Zashboard
+93825a0 chore: light zashboard
+3b90a85 #4482
+d88caa3 workflow: delete tmp
+f71da7f Chore: update resources: china_ip_route.ipset china_ip6_route.ipset GeoIP.dat GeoSite.dat Country.mmdb MetaCubeXD Yacd Zashboard
+210a980 workflow: fix error url
+4fb1dcf workflow: fetch-depth 1
+3041822 Merge branch 'dev'
+c10be33 workflow: update sdk url
+c9ce076 0.46.086
+8a74d01 update game rules (#4465)
+d3674a3 chore: lhie1 rules
+c354d28 chore: better log smoothly display
+a96c9dd 0.46.085
+c282a03 chore: refine log refresh
+3147de9 chore: respawn value
+a631834 chore: smoothly log refresh
+6e66c39 fix: set procd env correctly (#4450)
+3aa4f3f chore: adjust announcement speed
+894e958 0.46.084
+5b9c3d6 fix external-ui-name
+e20fb79 chore: announcement
+a9dcd8f 0.46.083
+ccdc3f7 chore: set ui value for preventing remove all ui files after download
+526078a chore: add SAFE_PATHS env
+e94f9e7 workflow: fix error sdk address (#4446)
+c065bd1 0.46.082
+28e1b1d workflow: Update Third-Party Resources
+363fc31 chore: refine
+0ed8d5d #4439
+fdab425 #4437
+6fe521c chore: update announcement
+ee760af chore: check announcement mtime
+5d8e4e4 0.46.081
+651a650 chore: add announcement
+ddf49c5 chore: asn database update
+ef3b0bb chore: lhie1 rules
+74ce817 chore: refine update check
+7bea963 chore: refine streaming_unlock.lua
+efd65af chore: change unlock test cache format
+ba65dbf chore: refine
+5ac9fac fix typo
+6cc220e chore: log formalt
+0374213 0.46.080
+5e27754 chore: sub info style
+39b4daf fix #4375
+4315d1f chore: AnyTLS
+1d96492 #4372
+8259e2d fix #4371
+1496179 Merge branch 'dev'
+a7fb5a4 0.46.079
+7283dd4 0.46.078
+d5b712c chore: refine
+c25374a 0.46.077
+ab6fc93 #4343
+eae4107 chore: refine
+498e3f1 chore: refine
+c984c44 chore: refine
+4b694d7 chore: refine
+8cb7078 0.46.076
+600dc48 #4324
+4333c67 fix #4334
+ebab3ae chore: refine
+3feb659 fix typo
+fe8dd5a chore: refine
+39a3dbb Merge branch 'dev'
+582e294 0.46.075
+2dae30f chore: refine
+2e455a5 workflow: clear_cache
+c45feef fix typo
+fef525e workflow: update clear_cache
+ab74bb6 workflow: go version 1.24
+9b25f50 0.46.074
+ec81125 #4321
+c00f124 0.46.073
+c359be2 chore: fix bug
+21c1423 fix watchdog restart bug
+d8accb5 fix typo
+6fa9277 0.46.072
+63fd811 fix typo
+4766b36 chore: refine
+cb60a18 chore: check the custom rules group before added
+36fe22b Add receive window config for hy2 (#4316)
+37cb765 chore: refine
+427cdeb 0.46.071
+c032dde #4311
+c2c17a7 chore: refine
+63c9ab2 0.46.070
+3056771 chore: ca-bundle
+d5b2167 0.46.069
+8bbc83d chore: refine
+be698a1 fix error
+5196d4b chore: remove coreutils coreutils-nohup libcap libcap-bin depends
+f4e2135 chore: refine Chnroute format
+d88a7b4 0.46.068
+121f6b5 chore: refine firewall
+c173c54 fix typo
+844fc32 0.46.067
+d7a59be chore: refine
+7496422 chore: mieru
+c3d85e3 chore: refine
+2207fb7 fix typo
+87df91e chore: refine
+f5bc414 chore: dark mode for log
+b7869db chore: tcp dns hijack
+95c4b6d #4286
+18aad1e 0.46.066
+9019aff feat: Add Zashboard (#4276)
+3c80969 chore: refine
+81edfa0 #4281
+9d697ab chore: inline type
+a0b1454 0.46.065
+0ed67d6 chore: hide update button if not subscribe info
+29bf0b8 chore: refine
+66768ad chore: add single config update btn
+21d0be6 #4270
+f4c7670 chore: refine
+802a869 chore: darkmode style
+2cb62f3 Merge branch 'dev'
+c86951a Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+cfbf957 0.46.064
+d36e0eb chore: update metacubexd v1.176.0 (#4253)
+dcb127c chore: refine
+f4e58fe #4257
+8af662b 0.46.063
+5a73c08 0.46.062
+1d2cac5 chore: refine
+f2b4e82 chore: refine
+175eca8 0.46.061
+956b2ec 0.46.060
+1f33400 chore: refine traffic ac
+5683095 chore: update metacubexd v1.173.3 (#4218)
+3b2567e Enhance nft firewall rules; add support for IPv6 suffix matching (#4219)
+4379563 Update openclash.lua (#4224)
+bbbcde4 luci-app-openclash: Fix `$` sign not escaping correctly. (#4217)
+72847cc chore: refine
+d30d285 luci-app-openclash: Optimized acquire `dnsmasq` configuration file path code. (#4215)
+d49f3b3 chore: refine
+28de0ad #4214
+0fff497 0.46.059
+eb716c1 chore: refine apk upgrade codes
+9764e5b 0.46.058
+4adeb27 chore: update lhie1 rule
+200707f chore: delete old geosite database before installed restoring
+8194e7c 0.46.057
+35d6593 0.46.056
+2000034 chore: refine
+5c7bd73 fix error
+7a0a5ce chore: refine
+02180f3 #4200
+4639593 chore: refine
+5a232b8 0.46.055
+892c7bd chore: refine
+2a1e398 fix: save file after ruby_delete() (#4196)
+c721153 0.46.054
+4ed6c4a chore: refine
+33f9746 fix #4187
+28ad782 chore: remove HBO Now and HBO GO Asia
+741cb43 0.46.053
+5408326 chore: update lhie1 rules
+a94a901 chore: add some demo for overwrite
+ce0ef71 chore: refine
+74079f6 0.46.052
+0f6313f fix typo
+bb79940 0.46.051
+9b9f351 chore: refine
+e75180c chore: apk compatiable
+d16c6d0 chore: refine
+23744ba luci-app-openclash: adapt to openwrt official dnsmasq modifiy. (#4140)
+6d0fb71 fix #4179
+4078fa0 fix typo
+7b91dce fix typo
+32bf0c3 #4168
+1d0e744 Merge branch 'dev'
+870478a 0.46.050
+9bd23f6 #4165
+5982568 chore: refine
+6c1f40e chore: refine
+4a31252 #4164
+9bd8366 0.46.049
+fc2eb25 chore: refine
+48e6b72 chore: refine ruby code
+1095b24 workflow: go 1.23
+3dcfe93 0.46.048
+8cd67b6 #4114 #4145
+1804585 #4144
+179245f #4143
+04b268d 0.46.047
+8fb9048 chore: lhie1
+1138c52 #4125
+78e2f9f fix bug
+d1d95e3 feat: support port range in common_ports (#4130)
+77910b2 chore: refine
+54a9d87 chore: ipset depend only fw3 and default y for dnsmasq sets support #4124
+0aa1c59 0.46.046
+a6eb22e 0.46.045
+8084c01 #4121
+1b28334 add more invalid IP to openclash_custom_fallback_filter.yaml (#4120)
+4c30128 0.46.044
+9620a3a fix ip rule for tun mode
+94e7b31 0.46.043
+064915d chore: refine
+4ba8002 chore: add ipv6 mix mode
+bc3a12a 0.46.042
+e3e898e 0.46.041
+96aa849 chore: use Yacd-meta defaut
+1d486a7 chore: less file check
+012403b chore: quick start logic
+f29d38e Update client.lua (#4097)
+1dc6674 chore: sniffer custom option
+1d1f98b fix log format
+92909d7 #4096
+3f73512 0.46.040
+c001690 chore: refine
+2dc0e88 fix: tun not work after firewall reload
+2de10fd chore: refine
+dd2a8b7 0.46.039
+5cbb232 fix tun error
+0646db3 chore: update metacubexd v1.151.0 (#4079)
+f206d19 chore: refine
+bce5f03 0.46.038
+3893791 0.46.037
+15c5ec9 chore: refine
+82e8c21 chore: refine
+49a88cf 0.46.036
+2efae52 chore: refine ruby codes
+b78df14 chore: ruby code refine
+97a3589 #4077
+1188652 0.46.035
+50bc2f9 chore: refine
+5416ba7 chore: refine
+61c94be chore: refine
+03b2b59 0.46.034
+8d1a9ba #4065
+d7456e4 chore: show subscribe url infos in logs
+4df90ee chore: update metacubexd v1.150.0 (#4059)
+b21ef15 Update GeoSite.dat
+50e3dae #4052
+5e7930c fix typo
+5441891 fix bug
+fc741a8 Merge branch 'dev'
+c2efe95 0.46.033
+607c7c5 chore: ip geo
+e3b53da chore: update metacubexd v1.149.0 (#4046)
+9808d20 Update compile_meta_core.yml
+4966b3a chore: refine
+f3c9085 chore: refine
+d5a55a1 chore: refine
+05cc8e0 0.46.032
+7c11f92 chore: refine
+1cd343f fix typo
+6543ddd chore: refine code
+f9cc20c Merge branch 'dev'
+468f9a4 0.46.031
+fffcda1 #4030
+7cea54c 0.46.030
+03670ff chore: refine
+19e219c fix #4025
+927f815 chore: refine
+94d6240 0.46.029
+faa562b chore: refine
+24b26f5 0.46.028
+2db6fca chore: add ecs option for dns
+195f556 chore: revert
+2a18580 chore: refine
+b164651 0.46.027
+65de1bd chore: refine translation
+09f43ae 0.46.026
+44a7d81 chore: change streaming unlock test cache path
+0e792e2 chore: refine
+97a11e5 0.46.025
+f206ee5 feat: add cache for streaming unlock
+a9b75b0 fix typo
+6be0cc5 0.46.024
+bbf4e46 chore: refine
+62be2bd 0.46.023
+2317fd2 add 'fake-ip-filter-mode' in 'dns' (#4011)
+8d2694c 0.46.022
+65351b0 chore: remove stream prefetch and block google dns
+85ab52c chore: refine
+1f9ce9d 0.46.021
+88977ba chore: use geosite in fake-ip-filter for china ip bypass
+d797697 chore: refine ipv6
+98170a6 fix typo
+137976c fix typo
+b57b0f0 #4003
+76f3c5d myip: Add tooltip to display full IP address on hover (#3997)
+6a1f894 0.46.020
+0050568 fix typo
+5189cab 0.46.019
+9b7b1ff chore: remove dev&tun core support
+6824bbb chore: remove ebpf because core not support anymore
+0a5cbd0 #3973
+5c32c60 fix: Handle single-quote syntax in game rules list (#3992)
+a3c2e92 #3980
+e0fe8da workflow: update
+4a717f1 update game rules list (#3987)
+7465c42 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+6de24e7 chore: update metacubexd
+ed13ca4 Fix Metacubexd Control Panel link (#3982)
+a14b157 0.46.018
+2621257 fix typo
+0ee1439 0.46.017
+231cfa0 chore: refine
+bd9c817 China IP Route: add bypass overseas (#3970)
+e104464 Enable eBPF support. (#3893)
+4d6f52c fix(init):fix typo (#3959)
+9ee2183 Add custom parameters for online subscription conversion (#3945)
+afba30c chore: refine
+21c012b fix typo (#3935)
+f2a5025 0.46.016
+af6c3c6 fix typo
+3b26b3a 0.46.015
+cf88e9f fix ipv6 rules #3919
+8019c63 chore: delete ConnersHua rules
+5c6b112 Merge branch 'dev'
+9da9686 0.46.014
+e082e94 chore: refine
+360bf14 fix error
+3452823 chore: refine
+c9f3c55 chore: refine
+8a5b213 0.46.013
+dcfbbe5 fix typo
+c741639 0.46.012
+8822b37 chore: update rules
+00f93ce chore: fix error
+6abe0af chore: retry for ipk update
+ea873ce chore: fix typo
+a3453f8 Merge branch 'dev'
+60f94c0 0.46.011
+f2f962f chore: refine
+19b0cad 0.46.010
+4320694 fix typo
+0d6324f fix typo
+17bf62c 0.46.009
+69ef32b chore: add cdn select window for download
+bd310dd config: readjust the fallback group (#3872)
+5bfd577 fix typo
+cf1f8fb 0.46.008
+8ac4105 chore: #3863
+b123a21 chore: refine
+7860bc9 Fixed an issue with the official latest master branch not working. (#3853)
+2e74338 0.46.007
+3ac5438 chore: refine
+5648296 chore: refine ip result
+316165d fix typo
+7b71435 0.46.006
+e347c6c workflow: refine
+fe323d6 workflow: fix error
+225bb55 workflow: test
+2540c21 workflow: fix typo
+139ffd7 workflow: refine
+abebc5b workflow: meta
+17806b5 chore: #3834
+3849598 chore: refine
+6a443f2 chore: refine
+e1b11d3 fix #3816
+8aca4af 0.46.005
+4ef9e45 fix typo
+7aa61d0 0.46.004
+173460a luci-app-openclash: Update translate (#3807)
+b7dbc55 fix add_utun_firewall_zone (#3802)
+abffd6f IPv6 support for dns debugging and skip proxy address feature (#3801)
+b65333a Fix the protocol that exists in the configuration file when the protocol is not configured. (#3794)
+d186af8 add Port Hopping (#3792)
+c6740aa Merge branch 'dev'
+2a4a3ac workflow: fix error sdk address
+dfbf248 0.46.003
+633d20e chore: refine
+82f97fb fix #3780
+5933123 chore: refine
+d7e9290 chore: #3771
+bd756e3 0.46.002
+5961c3b chore: refine
+f3d2f72 fix:Disable the startup of the utun interface. (#3764)
+dc3c9d9 chore: #3768 #3763 #
+b8533de Merge branch 'dev'
+bc5380b 0.46.001
+a8f18ca chore: refine
+13bc837 chore: refine
+1297086 workflow: go 1.22
+2924f42 0.45.167
+fe38c1d fix: ruby unexpected error
+94f6d09 chore: add meta check
+3c074b6 0.45.166
+b917c35 chore: fix typo
+f36a644 0.45.165
+61561e9 chore: add Fallback DNS Proxy Group option
+fd357d5 fix typo
+1446b03 chore: #3729
+8ef4936 chore: update fake filter list
+b63ccfb Update game_rules.list (#3712)
+726ebbc 0.45.164
+d6871c9 chore: fix typo
+1ac561f 0.45.163
+4fbed30 chore: refine
+141893f 整理并修改 ISSUE_TEMPLATE (#3697)
+cf717b6 fix #3702
+6027c39 chore: #3695
+154d55e chore: default dns overwrite
+a52fe73 0.45.162
+037c74f chore: #3688
+20c5d14 chore: refine
+76184fa 0.45.161
+a6a755c feat: skip proxies address
+f9ae766 chore: refine
+ee8d7ce 0.45.160
+1b31834 feat: add mixed stack (#3599)
+40fbdbb chore: refine subscribe code
+52771c3 workflow: revert
+ee746c6 chore: #3661
+ca5caf8 chore: fix typo
+5c71e81 chore: refine
+967f6cb 0.45.159
+7433e7b chore: refine
+d3b696a 0.45.158
+c8c19e6 fix typo
+1b65303 chore: disable core log color
+8baba8e fix typo
+bc8e8c3 0.45.157
+d2884b2 fix typo
+555b16b 0.45.156
+13fa41c chore: refine
+1617eea chore: random Dashboard secret
+7daaa18 chore: loop firewall reload
+70f0323 update core repo (#3636)
+a145860 chore: refine
+e1fb7b2 0.45.155
+f7744a2 chore: fix typo
+1bfc634 0.45.154
+e0f67e7 Fix (#3609)
+2150e7d chore: fix typo
+188f9c1 fix #3625
+90b4ee7 chore: #3621
+107d177 0.45.153
+4c05c5a fix #3610
+ef2b364 0.45.152
+6c9f281 chore: refine
+87c20ed chore: remove osdn files download address
+8f5a317 chore:  fix typo (#3598)
+8eecd92 chore: refine
+41c3cf3 0.45.151
+e5a794f fix #3592
+79a071c 0.45.150
+9f969fa chore: fix upnp exclude rules
+2c9ba2e chore: refine
+36deaf6 fix #3576
+a0f67e1 0.45.149
+d9c24b5 0.45.148
+1572f9a chore: add metacubexd
+a497a9e 0.45.147
+1831cc1 fix: add utun device name
+0854f9b fix typo
+eca814c feat：Fixed an issue where configuration files could not be updated because UA could not be read (#3545)
+577df4c 0.45.146
+47150c3 fix typo
+29d7cb3 0.45.145
+1adc3a4 chore: add hysteria2
+cf03c69 chore: refine
+55df1d4 fix: not reload network for utun
+c230fc2 0.45.144
+1e1bda6 chore: add user-agent custom option for subscribe
+11ddc22 chore: refine
+7ce02bd fix: firewall rules not loaded
+4e3a06b 0.45.142
+e6bc9ab chore：add keep-alive-interval option for meta
+cf9d787 chore: improve tun mode nat type
+f0838b1 0.45.141
+62ac6e2 Merge branch 'master' into dev
+05fa7bc Fix firewall rules. Limit some chains to IPv4 only. (#3469)
+4aeafd9 workflow: go 1.21
+a0e4e85 chore: #3431
+892c364 0.45.140
+506a6b8 chore: update rules
+0480510 Chore: global ipv6 could affect dns ipv6
+6866dba Update game_rules.list (#3442)
+81c5928 0.45.139
+5530abc 0.45.138
+4613aee 0.45.137
+4fc47cf chore: refine
+cbe7f52 chore: refine
+0baedc6 chore: update lhie1 rules
+6122486 0.45.136
+d527f19 fix #3431
+19224aa 0.45.135
+1ec5279 0.45.134
+05c5ecb fix other rules error
+59f0079 chore: refine
+23672d5 fix typo
+e7b49bc Auto Release: v0.45.133-beta
+ace90a6 0.45.133
+80fa9c4 fix: error enhanced-mode when config test
+bc6a243 chore: refine
+c0d7d6f chore: refine
+4a4d224 chore: add some doh dns services for fallback default
+fe3d619 chore: add services.googleapis.cn for excluding effectting by china ip bypass
+8ec6028 Auto Release: v0.45.132-beta
+b940fe2 0.45.132
+41a62df chore: add unified-delay option for meta
+e5ed847 Auto Release: v0.45.131-beta
+5df2423 0.45.131
+29ec2fc chore: refine && update rule
+86766d1 Auto Release: v0.45.130-beta
+1f44cd4 0.45.130
+a4bbb0c chore: refine
+8fbbe16 chore: refine
+0f48f6f chore: text color
+1dd221d Auto Release: v0.45.129-beta
+03212ab 0.45.129
+eaf2b2b fix #3378
+9d02dbf fix #3380
+fe93b48 Update game_rules.list (#3349)
+0ec6bb1 luci-app-openclash: adapter luci-theme-openwrt-2020 theme (#3377)
+308198c Auto Release: v0.45.128-beta
+7e1d33c 0.45.128
+6ca88a0 fea: add support for custom proxy parameter
+4ad088f Auto Release: v0.45.127-beta
+d830072 0.45.127
+0d39163 fix：custom group regex typo
+a7de4d5 Auto Release: v0.45.126-beta
+948dc81 0.45.126
+d6b7dcd chore: refine
+0af1302 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+f13bdc8 chore: refine
+9d54e4b Auto Release: v0.45.125-beta
+9d8ee4b 0.45.125
+da703bd feature: #3344
+09720de fix #3357
+8e7016d Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+ae99862 fix #3354
+017f5c5 fix #3348 (#3350)
+5fa595c fix #3312
+a89ee11 chore: refine #3315
+4cd5aa6 Auto Release: v0.45.124-beta
+b776c87 0.45.124
+0987089 fix #3118
+e1c4e41 fix #3316
+d46f18d fix #3306
+7c79813 Auto Release: v0.45.123-beta
+b4ae2b5 0.45.123
+5cc6a85 chore: add config test for start and subscribe
+1cbc865 fix: accessibility in dark mode (#3305)
+2ca00ff Auto Release: v0.45.122-beta
+fe55e89 0.45.122
+ef2b0f0 fix #3297
+0c29a87 fix: #3296 bad indentation of smux (#3303)
+4e8fae6 Auto Release: v0.45.121-beta
+0a86698 0.45.121
+99bce41 fix: overwrite url-test interval not work (#3273)
+bd4acff Auto Release: v0.45.120-beta
+b748dbc 0.45.120
+28ce55d chore: add format option for rule providers
+7e14f1b fix #3266
+6c59e0f fix typo
+c403c3d chore: refine
+104d829 Auto Release: v0.45.119-beta
+7caec64 0.45.119
+eca0443 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+02e420e chore: typo
+63d9a22 Auto Release: v0.45.118-beta
+59d7408 0.45.118
+91c887a chore: ipv6 localnetwork
+5fa1adc Auto Release: v0.45.117-beta
+db306fc 0.45.117
+f9f481d chore: update dasnboard
+d4327a2 chore: refine
+21972d9 chore: refine
+71647f4 Auto Release: v0.45.116-beta
+bf96b4c 0.45.116
+05e5085 chore: refine
+1393413 Auto Release: v0.45.115-beta
+97aa41e 0.45.115
+27a1418 fix localnetwork default range #3079
+60d9ebc fix #3247 #3249 dnsmasq resolvfile option reset failed
+bb0efc7 fix(init): fix typo (#3241)
+6e3eaff chore: add multiplex option for meta core
+043760e Auto Release: v0.45.114-beta
+9efdd30 0.45.114
+1847217 fix: #3195
+2f4f6db chore: refine
+beb089b Fixed background shadow word mismatch (#3225)
+9f9fcf5 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+65667c5 fix typo
+167539e Auto Release: v0.45.113-beta
+5a3ee1a 0.45.113
+23fdb3d chore: refine
+2e0a91f fix typo
+78d06cc fix typo
+b3ba5ba chore: fix typo
+579931f chore: add ChatGPT unlock auto test
+42eda5f Auto Release: v0.45.112-beta
+0d6dbef 0.45.112
+86b9bd4 revert: firewall rules
+3e79242 Auto Release: v0.45.111-beta
+cdaf7a6 0.45.111
+1a3d0ec fix: can not get the lan interface name
+cb12dc7 Auto Release: v0.45.110-beta
+000e716 0.45.110
+7ad4f85 fix #3189
+b6b7956 fix loop
+57b0c3f Auto Release: v0.45.109-beta
+e3a2ea3 0.45.109
+d39baeb chore: refine
+7c0c257 fix: firewall add iif name for localnetwork rule
+362a061 Auto Release: v0.45.108-beta
+b774920 0.45.108
+33c2562 fix typo
+71ab6d3 Auto Release: v0.45.107-beta
+20960ea 0.45.107
+e57f841 fix typo
+8d1ae18 fix: luci can not save large file #3169 #3168 #3165
+33a265e fix: tproxy not support output chain
+3fcb819 chore: refine
+2054596 chore: update dashboard
+7b383c2 Do not hijack dns outside the ac list (#3175)
+1f7ac82 chore: refine
+1fa5cb7 Update openclash_custom_fake_filter.list (#3176)
+760693e fix #3162
+2611512 chore: refine
+9f30111 Auto Release: v0.45.106-beta
+fa464f2 0.45.106
+6b42ed6 fea: add more ipv6 proxy mode
+0753fec Auto Release: v0.45.105-beta
+dbdb80a 0.45.105
+c046d03 fix: meta core version
+fd07be5 chore: refine
+c25e4fc chore: add Serial Number for tblsection
+35753a3 Auto Release: v0.45.104-beta
+91149e5 0.45.104
+e1cdd98 chore: refine
+d3032be chore: restls options for meta
+193ba4e chore: fix style
+e919a88 fix: custom rule (#3145)
+e4fe2ba chore: fix style
+3a9425b chore: meta wiki address
+63fcd22 chore: refine
+4a70796 chore: refine
+8a97f5b fix typo
+59476a2 fix typo
+7987891 Auto Release: v0.45.103-beta
+ab6bf08 0.45.103
+15c50eb chore: refine
+2bb54ea chore: reality option for meta
+297aa3e fix: nft wan ifname get
+7800551 chore: fix wan interface get error
+0973693 Auto Release: v0.45.102-beta
+4f2b429 0.45.102
+a261ee2 chore: add diff for config codemirror
+e84c634 fix #3086
+0c6e84b Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+8b431f1 chore: fix translation
+206be6e Auto Release: v0.45.101-beta
+dd4daf9 0.45.101
+ea9efde fix style for some theme
+9e9cfd5 Auto Release: v0.45.100-beta
+85f6b09 0.45.100
+268e8dd Auto Release: v0.45.99-beta
+4f21d20 0.45.99
+1085845 chore: #3076
+2085849 fix #3070
+94339fc chore: fix style
+6707fbc fix style
+7f18db2 Auto Release: v0.45.98-beta
+64b2085 0.45.98
+b603d61 chore: delete ip script before newer loaded
+5aca17a workflow: refine master release sync
+301ac84 fix #3058
+5b6c9c7 chore: reduce unnecessary sleep time
+ac59b70 chore: remember my ip privacy setting
+a3dcafa Auto Release: v0.45.97-beta
+14f6984 0.45.97
+eaf0aca chore: refine
+f05c7e9 chore: better group filter option name
+80f7fa3 Auto Release: v0.45.96-beta
+cec38f4 0.45.96
+00e28b8 chore: refresh ip check
+da92712 chore: fix typo
+e41895e chore: refine
+a647106 Auto Release: v0.45.95-beta
+5a2a0bf 0.45.95
+e79311d chore: add tab for tblsection template
+3fcccfb fix style
+c75ea5f Auto Release: v0.45.94-beta
+b733956 0.45.94
+8d8b1c9 chore: increase timeout option value
+c4cfd6b chore: #3052
+cc83591 Auto Release: v0.45.93-beta
+86a0b73 0.45.93
+5736565 chore: sub info custom icon and ip address privacy icon
+5324b5d chore: refine
+662e807 chore: ac ipmask datatype
+24c0daf chore: refine
+9c20660 workflow: refine
+f230082 fix: restore url not work after click
+a92e37a chore: hosts description
+99de80c Auto Release: v0.45.92-beta
+fa1ffad 0.45.92
+9b24772 chore: add TFO option for meta
+b6500b2 chore: allow custom common ports options
+a5843d9 chore: local setting version.svg
+ef9e77c workflow: change name
+fff4f1a workflow: add core compile action
+96d0433 Auto Release: v0.45.91-beta
+397e23b v0.45.91-beta
+2c349a4 chore: xtls-rprx-vision
+a942128 chore: refine
+c78f9d4 fix #3038
+3a26655 workflow: refine
+81a67b7 workflow: fix typo
+2c06304 workflow: compile after version check
+5015cd5 workflow: compile depends on makefile
+80e745f v0.45.90-beta
+40d3aec fix #3031
+468ab8e chore: workflow dispatch
+25397e3 workflow: refine
+f4c21cc chore: test workflow
+b14325b chore: test workflow
+ea4b574 chore: test workflow
+be6b72e Create compile_new_ipk.yml
+e35349f chore: test workflow
+ee7b76d chore: test workflow
+62eb05e v0.45.89-beta
+133331b Revert "chore: update version"
+d60a358 chore: update version
+6838524 chore: refresh
+9356ab5 v0.45.89-beta
+af24767 chore: change ipk&core download url
+badbe39 workflow: delete_old_workflow
+8f99057 Update README.md
+32ef539 fix typo
+b5e8977 chore: update meta core
+6be573e v0.45.88-beta
+5d11034 chore: refine
+f75ff59 chore: refine
+c2f913b change: disable most overwrite settings by default
+a7e2581 chore: update meta core
+8897dd3 chore: update core
+b2c2c20 chore: update meta core
+4f9f050 chore: refine
+fa10bd8 Merge branch 'master' into dev
+b5a9bd6 chore: update lhie1 rules
+746163b chore: revert v6 dns logic for meta core
+bcc039b Add Tun interface wait timeout (#3008)
+eec18e0 chore: update meta core
+0523e02 fix: redir-host access control
+2376ba8 fix #3002
+07eacf6 chore: client-fingerprint
+fa8c606 chore: global client fingerprint
+4e0ea70 chore: update core
+30bca8f v0.45.87-beta
+31738f7 chore: refine
+c285e0a chore: Client Fingerprint
+27eddbc fix typo #2975
+bc90aa6 chore: refine
+75089e5 chore: update core
+2397212 v0.45.86-beta
+83cb249 fix #2984
+347faf5 chore: add Client-fingerprint option for meta
+6409040 chore: some server option for meta
+06a6736 v0.45.85-beta
+37616fb Sync to the latest rules (#2972)
+fb1260d revert: keep redir-host for meta core
+ab5e774 chore: debug add DNS test
+ad7a2d9 change: force replace redir-host to fake-ip
+8c8e39b chore: remove the koolshare section
+768b501 chore: update fakeip filter for xunlei
+70c8db8 chore: update core
+6dde3a9 chore: refine
+996efc3 v0.45.84-beta
+9521edc fix typo
+00ea018 Update game_rules.list (#2968)
+ed5571e chore: add Developer Settings tab
+62d802a chore: add description for meta core ipv6 dns option
+3e47c12 chore: add ipv6 settings tab
+35999dd chore: add fakeip range option
+0d92a6f chore: 'zero' security for vmess
+5e33426 chore: update meta core
+bc613d8 fix ipv6 #2965
+6ad9093 fix typo
+fe6ec16 v0.45.83-beta
+806e599 fix #2965
+3ff081a chore: update core
+6f5d428 fix typo
+1acd5b3 fix #2947
+584290c fix #2932 nft rules
+7d0393d 修复访问控制中mac白名单和ip白名单同时设置时第二个加载的白名单无效问题 (#2958)
+5337d51 v0.45.82-beta
+cd7dfe7 chore: meta sniffer conf change
+dd2187d chore: update meta core
+603bb92 fix #2949
+79a95d8 v0.45.81-beta
+58aa4dd chore: add firewall upnp exclude rules
+deb26f1 chore: skip auto bypassing port when there is port-range
+24919f9 fix typo
+ccb0801 chore: update meta core
+4cd38b6 v0.45.80-beta
+e9f2233 chore: sync game rules
+2a0d125 fix typo
+3f4f078 chore: update meta core
+b71c74a fix: dns hijack lo only for router self
+7a5f748 chore: update meta core
+4827e9d fix: ip6tables rules do not cleaned up
+394b930 v0.45.79-beta
+1906844 chore: refine
+3cd112d chore: update core
+90c5840 chore: #2929
+7685621 feat: DNS hijack support firewall redirect
+3ffc0f6 Merge branch 'master' into dev
+ec35a02 Add local.adguard.org to openclash_custom_fake_filter.list (#2932)
+35be26a fix find-process-mode option not write in config
+b1f6058 fix typo
+f917688 chore: rm server ping option
+32ca791 chore: Enable Process Rule option for meta
+2ae9942 chore: shadow-tls for meta
+f7b8c4d chore: change disable dnsmasq cache to true as default
+0597a61 chore: update core
+6809065 v0.45.78-beta
+195785f chore: update meta core
+dcc1640 chore: update meta core
+177e5e6 chore: update meta core
+648f90b chore: update core
+b5b7126 v0.45.77-beta
+fd0d328 chore: refine
+f391824 chore: change default github_address_mod to https://testingcf.jsdelivr.net/
+220d86d chore: core restart when firewall reload
+5b9905c chore: refine
+7739769 fix typo
+936e91a chore: update meta core
+7948832 chore: refine
+055ea5f v0.45.76-beta
+8d84a05 chore: add urltest url custom option
+3d5f251 chore: refine
+75b1896 chore: refine
+3f59067 chore: update meta core
+61b2fea chore: log color
+721bebe fix: LOG ALERT
+c9ee0b8 v0.45.75-beta
+9b3e344 chore: update meta core
+7f7937a chore: update meta core
+8bd7fe7 chore: Port Hopping&Max Open Streams with meta
+a7f5128 v0.45.74-beta
+a88cc27 chore: fingerprint option for hysteria
+cd2171d chore: refine
+ca759a7 chore: meta with tuic
+df226e6 v0.45.73-beta
+d5b229d chore: change the dns port which used by adguard home
+670e589 chore: refine
+ad5820c chore: update core
+c9f9dc9 fix typo
+61e9c86 chore: debug hide wanip
+5e9029e chore: debug info
+b246fd2 chore: increase timeout value
+88ee6d1 chore: WireGuard
+c77863e chore: update core
+bc1b260 v0.45.72-beta
+902ef61 fix #2818
+618bafa fix #2799 curl's urlencode not work
+5de0384 fix #2823
+4a8e982 fix #2789
+e5aad02 fix: fakeip bypass not work after firewall reload
+add4021 v0.45.71-beta
+cd36189 fix #2661
+11479b9 v0.45.70-beta
+e00ce85 Merge branch 'dev'
+c941941 v0.45.69-beta
+0a8c084 chore refine
+0ebf351 chore: update
+10bde12 chore: update meta core
+407e6e0 v0.45.68-beta
+196e61b chore: refine
+75b365e fix typo
+414ef69 fix: prevent ipset/nfset repeat
+cdff2bf chore: update core
+c2e3fc7 chore: refine
+0a30154 v0.45.67-beta
+c46828f fix bug
+835bf62 chore: refine
+8f105b0 v0.45.66-beta
+f2758c9 chore: refine
+0b9611f chore: add testingcf.jsdelivr.net #2727
+3021025 fea: fakeip support china ip bypass
+5db3f40 chore: refine
+13b4f43 Preventing placeholder conflicts (close #2765) (#2766)
+9c4ab2f bug fix
+f272b44 chore: refine
+9971c49 fix bug
+8d4bdda chore: update core
+5eb9d2f v0.45.65-beta
+b8aee79 fix #2748
+2abe533 chore: update meta core
+111f806 chore: refine
+d0000e2 chore: refine log
+ee87fc2 fix typo
+b237a6d v0.45.64-beta
+a051be7 chore: update meta core
+588cb01 chore: show curl error infos in log
+c03f47a chore: add ForceDnsMapping and ParsePureIp for meta sniffer
+2b94965 chore: increase wait time for TUN interface start
+207e579 chore: update meta core
+17184c1 v0.45.63-beta
+cf6b2b1 chore: ipv6 tun rule revert
+b6e36af chore: update meta core
+318883e chore: add tencent.com to fake filter
+2637ffa Revert "chore: update meta core"
+02a4d17 chore: update meta core
+540d4ad streaming unlock: nil value if proxy connect err after url-test
+4126e7e v0.45.62-beta
+383d7e7 chore: update meta core
+bb66ef1 chore: vmess new option for meta core
+b86efe6 chore: update core
+0006a8d chore: refine
+65dc8dd v0.45.61-beta
+40d5434 chore: update core
+a4e9982 Chore: rename linux-armv8 to linux-arm64
+f97afd0 fix error log
+7ea617c v0.45.60-beta
+5a8e49c chore: update dashboard
+37c4f25 fix typo
+d3415b0 fix #2383
+112f139 chore: change authentication set logic
+310cdc1 fix: new log format
+67d5969 chore: update core
+34c62d8 chore: refine
+00af009 fix typo
+67e24e9 fix #2695
+2d83103 chore: update meta core
+64f89c2 v0.45.59-beta
+2247103 chore: fix google not cn test
+90b07ec chore: lhie1 rules
+5d5ca35 chore: refine
+730a955 chore: update meta core
+94cba97 v0.45.58-beta
+19bf507 chore: add google not cn region test&select
+3b80465 chore: SUB-RULE for meta
+c08f760 fix(init): add ipv6 firewall rules into mangle_v6 chain (#2682)
+9b24a14 fix bug
+cca92e7 chore: refine
+a7f8634 v0.45.57-beta
+248cba9 chore: refine
+a1a2c24 chore: update core
+b3fefe7 fix v6 common_ports not work
+1ae5c8a v0.45.56-beta
+e2335f7 fix #2668
+9f147fe v0.45.55-beta
+5a2030e fix ipt tproxy output
+5f39aa1 fix nft tproxy output
+283b74f fix bug
+71477b9 chore: refine
+5539a32 fix typo
+670cf92 v0.45.54-beta
+af19910 chore: refine
+9a9a0d8 chore: refine
+91c5065 fix bug
+60b170b fix: set create error (#2664)
+12fd253 fix typo
+fbff535 chore: refine
+ca85c9b Merge branch 'master' into dev
+8efb5b2 chore: update core
+2f30099 Fix typo (#2662)
+74ad702 v0.45.53-beta
+c1ae741 v0.45.52-beta
+4720236 fea: add nftables support
+aaf2578 chore: update core
+c107506 chore: refine
+15aea8d v0.45.51-beta
+87e4b56 chore: update dashboard
+eb781af fix typo
+dc3ac68 chore: refresh ipk
+d3abfd7 v0.45.50-beta
+b0d4872 fea: add urltest logic for stream unlock auto select
+4a3e808 chore: refine
+f41a7c6 chore: refine
+73a9283 chore: add compressed file test
+fa2f307 v0.45.49-beta
+fc33fff fix: block google dns not work
+52d1bc1 chore: update core
+d589697 v0.45.48-beta
+c5484c2 chore: add block google dns option in stream unlock tab
+d9a2be3 fix #2528
+20807b3 fix #2631
+e1af5f3 chore: update core
+feb4754 fix udp error
+caf8d40 chore: ip style
+0648990 v0.45.47-beta
+22194a0 chore: update codemirror
+3d0c61c fix #2600
+eef9741 v0.45.46-beta
+b1fd66b fix: firewall rules
+eb9bda5 v0.45.45-beta
+bc554b0 chore: add warning log
+f53559a chore: refine
+ed3a8c0 fix typo
+cf00e5f chore: update core
+bc523a9 v0.45.44-beta
+214a6a7 chore: add chnroute bypassed List
+fa47ad9 fix #2596
+e1b972f chore: remove excess parameter for hysteria
+03a2d58 chore: add default-nameserver group for custom dns #2587
+4ff3427 chore: refine
+a1c9751 chore: refine
+e13afc4 v0.45.43-beta
+311879e v0.45.42-beta
+372da33 fix: ruby show Unknown alias error while read yaml #2487
+047d1f8 chore: streaming unlock do not ignore direct
+789d592 chore: update rule provider
+6434566 chore: set default authentication while installing
+c885044 fix: get lan ip for stream unlock test
+83dd519 v0.45.41-beta
+02d7235 Add backup options (#2572)
+5ba8e4c chore: update core
+d190717 v0.45.40-beta
+46ae7a3 chore: refine
+dcafd96 fix typo
+db06d82 Merge branch 'master' into dev
+58e2dd2 refactor: anonymize + simplify referrerPolicy handling (#2566)
+d671bb7 fix: remove region history if change region filter
+b77c162 chore: add Bilibili unlock test
+8116286 chore: update meta core
+0527e2b chore: update meta core
+e46ada6 v0.45.39-beta
+b3477fe chore: ytb unlock test
+1e27cda fix: osdn
+7b19670 fix: osdn
+d9c569a fix: ip info error
+e212c18 chore: ytb unlock test
+8b711af chore: replace tuna cdn
+136d6f5 change: replace Enable HTTP/3 option to single custom
+2ef33f3 chore: #2561
+f22a5d6 Fix daip can not get dhcp address in OpenWRT 21.02 (#2561)
+c82ca02 chore: refine
+d4910d8 v0.45.38-beta
+38c120f Revert "chore: refine"
+ef8955a chore: update meta core
+494706b v0.45.37-beta
+459fa23 fix #2529
+b3823fa fix: translation not work
+d4e3342 chore: refine
+4c5a449 chore: refine
+c6d70d9 v0.45.36-beta
+40f4e73 chore: add append default dns option
+cbaa998 chore: #2542
+39ef66a chore: add option for close old connections when new unlock node selected
+ba6e35f chore: preinst for dashboard
+db9ecff chore: translation
+42ad9b3 fea: add dashboard&yacd version switch (support meta version)
+e369a65 chore: update core
+280a94c Merge branch 'master' into dev
+119edf9 chore: update core
+c6b1b0c chore: add HTTP/3 option for meta core
+061e4ce [Bug] sub_info_show.htm hidden date and null day (#2537)
+3304b03 chore: update meta core
+5b27057 fix bug
+444583d Merge branch 'dev'
+daa2010 v0.45.35-beta
+deddf31 chore: update core
+de0a5cc chore: refine
+f8fe54f chore: change custom DNS model
+3114e12 chore: increase TUN mtu to 65535
+b5ae506 fix: error domain while foward yacd
+63430f7 chore: update core
+42dc1bd chore: empty update info
+90d13e0 chore: update core
+73a36f9 Update idea.css (#2528)
+d0ac4f0 chore: update core
+acc258f v0.45.34-beta
+4edbf5b chore: fix typo
+d2d57cb chore: enable sniff-tls-sni default for premium core
+ac031ec chore: refine
+17bb0c0 chore: update core
+af6be55 chore: refine
+ea7e5e5 chore: update meta core
+56144aa chore: fix translations
+b37771e chore: Try not to change the unlock area when streaming unlock auto select
+6b22632 Merge branch 'master' into dev
+a5211a6 Fix a typo in boot method (#2515)
+06a456e Update openclash.lua (#2514)
+f36f258 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+1f59b5e chore: update meta core
+98d3f4e fix #2502
+84f38b3 chore: update core
+076c5d6 fix: dns warning log
+8807e01 fix: can not start if `china_ip_route` not enabled (#2496)
+f9bb618 v0.45.33-beta
+ec33111 chore: update core
+ef3c0bd chore: update yacd
+a7d455b chore: disable auto-redir
+f13317f fix: error log
+1fd51ef fix typo
+681dd7a fix typo
+38499c5 chore: update core
+95858c8 chore: ignore IN-TYPE rule if not meta
+6bfd239 chore: update meta core
+54c3272 chore: update core
+461ae7d chore: update yacd
+b343c81 fix #2471
+a5aa44f v0.45.32-beta
+efae581 chore: update meta core
+5544bea chore: update dashboard
+0b8e263 Merge branch 'master' into dev
+138b704 fixed subscription-userinfo missing expire (#2466)
+8c0b553 sub_info_show.htm hidden undefined day (#2467)
+6bb52c1 chore: translation change
+1fa1b3e chore: update lhie1 rules
+6a24777 chore: update meta core
+d10032b chore: lan bypassed port list
+3ac6bac chore: update meta core
+c36d6b4 chore: update meta core
+8ed6e50 v0.45.31-beta
+4a51685 fix typo
+62d1517 chore: add Hysteria support for meta core
+094bd58 chore: add http headers support for meta core
+f74f76e chore: add SS2022 for meta
+3aa26f2 fix: img loop onload
+2e524c9 fix: #2459 #2460
+e4ea2b9 v0.45.30-beta
+a6f0148 v0.45.30-beta
+efe1a36 fix #2454
+5adc7e8 chore: logo loading logic
+7a9aee6 chore: add raw.fastgit.org
+6b38274 chore: sub traffic info show decimal
+6b9972b fix translations
+88ee3a4 v0.45.29-beta
+06de2eb fix #2453
+7039c49 fix: custom local not enable
+702415c chore: add the option for custom local ip and port to pass the core
+f295684 fix #2447
+3fc6a50 chore: refine codes
+d3b458d fix: custom hosts error
+8759837 chore: update meta core
+020cc30 v0.45.28-beta
+cec0eb6 fix: default value
+f823969 chore: refine translations
+7e47259 fix typo
+e959eea fix: add to default-nameserver if the doh & dot and quic is ip format
+cfe4143 chore: update lhie1 rules
+5db3e9d chore: update meta core
+8b3752c v0.45.27-beta
+2e78c93 chore: refine codes
+ffd5187 change: support specific interface & specific group & proxy server for custom dns
+91cbd8f fix typo
+e1a9af9 fix: skip only for port rule
+860753e chore: skip IP-SUFFIX and SRC-IP-SUFFIX type custom rule when not meta core
+5226a3e chore: skip the custom rule that tun core not support
+992a340 fix #2438
+f356426 chore: update dev core
+81ae45d chore: update meta core
+82aed90 v0.45.26-beta
+bae23f8 chore: update lhie1 rules
+dd8b4ce v0.45.25-beta
+0f4ff43 v0.45.24-beta
+0683b79 Merge branch 'dev' of https://github.com/vernesong/OpenClash into dev
+2584dcd fix: #2433
+a091d87 fix: firewall rule flush while stop (#2429)
+8587d31 chore: update meta core
+6446c0e chore: refine
+8b01ccc chore: update meta core
+7645e7b v0.45.23-beta
+6ceb73d chore: change color for traffic progressbar
+072845c chore: update meta core
+1817a92 chore: change sub info style
+e47d25f chore: sub info show remaining days
+1ea1652 chore: replace to fastly.jsdelivr.net
+63e3054 Merge branch 'master' into dev
+3f1593c 添加 Issue 模板 (#2417)
+aad34b2 chore: update meta core
+5994ae2 v0.45.22-beta
+29b9386 chore: change progressbar style
+1854f91 v0.45.21-beta
+0006f18 chore: progressbar for sub traffic info
+b21d95e chore: update core
+77d1cc3 chore: replace to fastly.jsdelivr.net default
+cc36a6f fix: cpu info undefined
+d7dcf54 chore: change custom rule append position
+b23c6b8 Update openclash_custom_fake_filter.list
+01b9f39 v0.45.20-beta
+9212ce8 fix #2411
+f767ca1 v0.45.19-beta
+9e551a6 chore: skip file Download check for meta core
+4c0c448 chore: update meta core
+68a007f Merge branch 'master' into dev
+b541697 Add Fastly CDN (#2402)
+797281c chore: update core
+84c325c fix can not read "operation_mode" config (#2393)
+aff2299 chore: update meta core
+cdb48b1 v0.45.18-beta
+80d605a chore: hide dns remote if meta core enable
+8905e27 chore: refine codes
+3df8514 chore: refine codes
+505d84f chore: update custom_fake_filter.list
+cc0cab5 Optimize external_ui url (#2386)
+7588a7e revert: bypass gateway compatible
+6b4eb37 Merge branch 'master' into dev
+d1143a0 chore: update dev core
+cbac555 chore: update meta core
+fa48bd9 v0.45.17-beta
+482e5f9 chore: hide geoip mmdb auto update tap if geoip dat enable
+9685cd4 chore: hide stream enhance tab router self proxy disableif
+4caa83e fix: udp error
+0e157f0 fix typo (#2375)
+aa66226 chore: update meta core
+ad0789f chore: change logo
+a62c6ff chore: update core
+484ba3e v0.45.16-beta
+db56bf8 chore: update dashboard
+d2e8656 chore: update meta core
+d23bef2 v0.45.15-beta
+0575ce7 chore: update meta core
+b9c3247 chore: update dashboard
+13ed573 chore: compatible for meta core changes
+9c23a9f chore: update meta core
+4cd30fc v0.45.14-beta
+b6c068e chore: refine codes
+2f7fc49 chore: add 80 port to sniffing port-whitelist default
+0efd89c fix error version showing
+8814039 fix #2346
+16afdcd v0.45.13-beta
+97d86c1 chore: use ipkg model
+a98b343 fix: img url random prarm
+b61c73b fix typo
+6174f60 v0.45.12-beta
+394d1c5 chore: update meta core
+70840c8 chore: refine codes
+b377646 chore: update meta core
+0a8a575 chore: update meta core
+b27bb23 chore: refresh ipk
+50d3ac7 chore: refresh ipk
+a357bd9 v0.45.11-beta
+175992e fix: custom rule-set bug
+a41a290 fix: provider file status check log
+6d642dc fix: TCP concurrent option hide
+ebd646e chore: refresh ipk
+6046f45 v0.45.10-beta
+a5d5372 fix typo
+7fb01d7 chore: replace img
+8fe4731 chore: update meta core
+05072f3 chore: refine translations
+4bea9ed chore: refine custom lists
+0220e4f fix typo
+c6ccc19 chore: add tcp concurrent for meta core
+e2157f4 chore: update dev core
+b28c2b8 chore: update core
+6a3b00a v0.45.09-beta
+57ecf99 chore: update meta core
+7f16e29 v0.45.08-beta
+b544bee chore: refine codes
+496f352 fix: dashboard login
+2913430 v0.45.07-beta
+d69f511 chore: meta core
+ed88e6b chore: update dashboard
+f420e32 fix typo
+d83f884 chore: refine codes
+9a511ba fix: #2292
+9714504 chore: refine codes
+ea81087 chore: update core
+ab57674 v0.45.06-beta
+9ea91a4 fix: loop request sub info
+3cf48c9 chore: script mode only for tun core
+8ad9701 fix: could not sync group name change
+88d34e8 fix history file permission denied
+b4dbd9b fix #2277
+9a14871 chore: update meta core
+0bdd647 v0.45.05-beta
+b161dfc chore: sniffer changes for meta core
+4957cf7 v0.45.04-beta
+b665b47 chore: update meta core
+6b39c68 feat: add reverses for meta sniffer
+5cf8eb0 fix #2262
+79263f1 chore: add group policy Filter for meta core
+1871e95 chore: refine
+1404990 chore: when restore config also the delete cache file
+895062a fix: tun udp for router-self
+a6957f6 fix typo (#2266)
+f336e6c v0.45.03-beta
+82dcfdc meta update adapter luci-theme-openwrt-2020 theme (#2259)
+cd5cdcc fix #2262
+2e5398e chore: add quic dns support for meta
+ba9178c chore: update meta core
+342db9a fix typo
+8a05f7d v0.45.02-beta
+5cb06df refresh ipk
+5981284 chore: update meta core
+7438795 v0.45.01-beta
+361512a chore: add some notes
+01aacda chore: disable auto-route&auto-detect-interface for tun core
+dce892f chore: refine translation
+a00844d chore: sub info refresh logic
+04fd017 chore: show error msg if exist when dlercloud login
+01f7fda change: disable auto-detect-interface default for meta
+a1bd192 chore: update tun core
+8d430d8 v0.44.48-beta
+e8b7cf2 fix: missing geo ipdb update button
+48a13c6 v0.44.47-beta
+a46c4a5 fix sniffer not work
+080805a chore: update meta core
+9039ef9 chore: refresh ipk
+a288426 v0.44.46-beta
+d5fd326 change: move meta to new tag
+358ee43 fix: add flow option for vless
+7a1ffb3 fix: loop download core
+021f23d fix translations
+87ef23b chore: add none cipher support for ssr #2249
+b68a821 v0.44.45-beta
+2a20757 fix: missing tun route
+565a027 v0.44.44-beta
+df74af5 fix meta core update
+d12a37a fea: add meta core support
+f05cea4 chore: update dev core
+70e3f6e v0.44.43-beta
+be6fe65 fix #2241
+052b614 fix #2244
+d37cefd chore: refine codes
+607379d fix: sub info color
+f4c1bf9 v0.44.42-beta
+2528a49 fix: ipk upgrade check error
+b83292b v0.44.41-beta
+9d699c0 chore: remove game core file
+d62368d fix #2202
+0208ea7 v0.44.40-beta
+cb2e692 fix: bug in sub info showing
+d6e83f8 fix: wrap off
+cbf5872 chore: multiple subscribe links support format of the per line
+a6bb5b7 fix typo
+1ea9e69 chore: add @lmc999  into credits
+eb22f86 chore: add Discovery Plus & DAZN support for other rules by lhie1
+a3b3f7d feature: add unlock test and auto select support for Discovery Plus
+9796a8b chore: add some process-name DIRECT rules for proxy rules matched only option
+103ae4d v0.44.39-beta
+0f2d480 change: remove force dependency kmod-inet-diag until release
+64c1dab fix: randomseed
+8197469 chore: only intranet allowed option default enable
+6e74f74 feature: add Unlock test and auto select support for Dazn & Paramount Plus
+ac450c1 R.I.P: change logo
+96d7c56 R.I.P
+0510eb1 v0.44.38-beta
+2186cd4 Revert "v0.44.38-beta"
+d541a1e v0.44.38-beta
+d9c30be change: add router-self proxy option for rule mode
+c4b1bec Merge branch 'master' into dev
+50e7da1 chore: refine style
+6ceb475 change: sub infos style
+e0571be Update openclash_custom_fake_filter.list (#2183)
+8563ebf fix: invalid type return
+d92d995 v0.44.37-beta
+2fb31cd chore: refine codes
+710d7f6 feature: add nodes regex support for streaming unlock auto select
+4e918b6 chore: update CodeMirror
+029d29e chore: increase download timeout value
+6594d86 v0.44.36-beta
+5cd5b51 change: show delay if website access check success
+7e5c3f8 fix: temporary file name confusion
+92d9b49 v0.44.35-beta
+e21812b chore: increase subscribe timeout value
+209162a chore: update tun core
+c82d4d1 fix log translation bug
+26db6cb fix #2170
+45d37e2 fix typo #2169
+ed863ba workflow: update clear_cache
+3b6908d workflow: update clear_cache
+74efa42 change: add force dependency kmod-inet-diag
+a75bb47 chore: update actions version
+4533ca3 v0.44.34-beta
+79ab7ed chore: update core
+b478875 change: add linux-amd64-v3 core
+6945e4f change: random select streaming unlock
+abc38bf chore: update dev core
+135386f chore: add some bt/p2p's PROCESS-NAME rule
+dc4936f chore: refine
+a96511a chore: font red style for stream unlock option
+b1e5641 chore: add CodeMirror for stream manual test
+be2738f v0.44.33-beta
+1468938 change: add button for streaming unlock manual test #2139
+c8f3d7c fix #2148
+0de60d7 v0.44.32-beta
+0a9ae05 chore: add config rename
+ff903ff chore: refine codes
+292fd31 chore: fix dependency
+76614e3 Update core_version
+81da824 v0.44.31-beta
+3b9bef3 chore: update yacd
+0a6ed88 chore: update dev core
+cb8c30c fix: #2134
+9a73d4a chore: add fallback cdn for core and package download
+f5af10b fix: missing capabilty
+14beacf fix: add kmod-inet-diag depend for PROCESS-NAME rule type
+6aca99b chore: use -m for curl timeout judgement
+00fd493 fix: add capabilties support for PROCESS-NAME rule type
+ce12292 chore: increase timeout value for curl when downloading
+5e72267 v0.44.30-beta
+0d8b28a fix: Hosts not enable
+b25eea9 fix #2107 #2109
+84acc0f chore: refresh
+ede2c83 v0.44.29-beta
+9a53260 chore: refine codes
+06cd850 chore: update core
+722458c v0.44.28-beta
+e6dc40c chore: refine codes
+25c70d6 fix: exclude local dst when MASQUERADE
+7da3217 chore: add button for fake-ip cache flush
+ec1b01d chore: update yacd
+a71869b chore: update core
+36e3c3a v0.44.27-beta
+a167fea fix style
+cb663e1 fix style
+dc6d4d3 fix: save dnsmasq settings
+f66b85c fix #2080
+a2c9705 fix #2047
+6fb7d50 chore: dler card style
+74e2ec1 chore: fix translations
+5543b81 v0.44.26-beta
+91a1927 chore: refine codes
+f58d13c fix #2059
+edd226b chore: add core file upload
+4ed4b41 fix: logs transform error
+5943da9 release: v0.44.25-beta
+e359cff fix typo
+2bd0fd7 chore: close old connections after streaming unlock auto select
+eb7e844 chore: add windows connect test domains to dns fallback filter
+15feca8 fix typo
+c0871d2 chore:: fix log style
+a65156f v0.44.24-beta
+d1c9442 chore: replace all download address with github address modify option
+fa69cba v0.44.23-beta
+c91bfb7 Revert "fix #2034"
+e20c9f2 v0.44.22-beta
+d5db284 chore: add delay start option
+39ad140 fix: disney unlock test
+f23efc3 chore: add file create and edit #2026
+62052dd fix: disney unlock test
+3010360 fix #2034
+3a6a02d v0.44.21-beta
+d896783 chore: add Github address modify option
+3c7f2e2 chore: update default fake ip filter
+83aa9b6 fix typo
+7523955 chore: update luci-app-openclash_0.44.20-beta_all.ipk
+09891e6 v0.44.20-beta
+2309039 chore: update custom_rules
+f962abe fix #2021
+814f771 fix typo
+cf0e392 release: v0.44.19-beta
+59c4903 fix #1778
+198afb5 chore: enable classic for subconverter default
+c66a069 release: v0.44.18-beta
+27cb265 fix #1979
+5a22b43 chore: add bypass gateway compatible option
+46dfc2d release: v0.44.17-beta
+92a09b9 chore: disable Tsinghua ipv6 dns default
+a00651e fix typo
+d641425 fix: close streaming unlock when re-subscribe config
+31114e6 release: v0.44.16-beta
+b8e25e7 release: v0.44.15-beta
+08de89d fix: netflix unlock test abnormal
+124e55e Merge branch 'master' into dev
+accd3e2 feature: FFXIV Worldwide Server & CN Server domain for fakeIP filter (#1961)
+715e586 fix: 修复数字密码支持 (#1998)
+bf0e458 release: v0.44.14-beta
+e4136cc release: v0.44.13-beta
+93192b9 fix: small flash memory #1979
+12921bf chore: update dev core
+0c581de chore: remove translation for release branch option
+0c83f8c chore: update core_version
+300d448 fix: error version info
+057df4e chore: update dashboard
+a35c937 release: v0.44.12-beta
+a1d1be0 fix: small flash memory option support cache file #1979
+f9b4149 fix: update lhie1 rules path
+280955c feature: add regex support for group&region in streaming unlock select
+e72b2a9 fix: #1983
+3f7dd2e chore: add interface-name add routing-mark option support for group
+91fff71 fix typo
+eee8715 v0.44.11-beta
+23fac4f fix #1972
+30de7f1 chore: update Netflix_Domains.list
+0608b0d chore: update sub_ini.list
+249b6ad chore: update dev core
+751082d chore: update core
+be6023d v0.44.10-beta
+4831779 workflow: update
+94cf813 fix #1945
+873c63d fix: error release branch info
+703e74b chore: update dev core
+e29d4c5 chore: add snell v3 support
+42bf99a v0.44.09-beta
+c161c57 chore: update core
+94cb2b7 v0.44.08-beta
+5cad326 fix #1930
+24d3d3e change: add update branch switch
+ebd0654 chore: add compatible with vmess ws old format #1903 #1905
+1faa12f fix #1911
+7e3eca6 fix: #1917
+74b6118 fix: multi core running with no capsh
+ccba849 chore: update core
+38e50bb fix: follow subscribe if udp option false when subconverter enable
+8c175e6 workflow: increase operations-per-run
+19605ac v0.44.07-beta
+1ffcc72 fix #1878
+0a6b86a fix #1876
+1396715 chore: update dev core
+782c2ae workflow: clean jsDelivr cache
+ebec5b2 workflow:  mark and close stale issues
+3cad651 fix typo
+6334ab3 v0.44.06-beta
+84ed00a v0.44.05-beta
+45d3b8e feat: try to show subscribe infos for subscribed config
+4ec9652 chore: update lhie1 rules
+28d7d6d fix typo
+9b99164 chore: try to replace the provider url with jsdelivr cdn
+7081fcb chore: update default rule providers
+68633af fix: hbo unlock test
+7702dc2 chore: update china_ip_route
+387a438 chore: update lhie1 rules
+e170cfa fix: missing firewall exclude rule when proto empty #1824
+3ff9770 chore: update dev core
+72475a6 v0.44.04-beta
+18c7d2a chore: update lhie1 rules
+6bfd5a0 chore: refine the append logic for custom rules #1856
+4a20048 chore: update ihie1 rules #1855
+8add555 change: add unlock auto select for hbo max, hbo go asia, TVB Anywhere+, Amazon Prime Video
+7284fdf chore: remove subcon.dlj.tf
+2b43b30 chore: debug add dns remote option
+32470c0 chore: update dashboard
+eae2bf4 Update Netflix_Domains.list
+ebd7d41 change: add DNS remote support for redir-host
+a1e2134 fix #1848
+87aa6b6 Merge branch 'master' into dev
+e13f726 adapter luci-theme-openwrt-2020 theme (#1834)
+a400c23 fix: client page use form section
+6147a41 chore: update rule_providers.list
+4bca3a7 chore: update core
+c78fdd6 fix #1805
+492cd00 fix:  error log when streaming unlock test
+3d628a1 chore: refine streaming unlock codes
+1f63c27 Merge branch 'dev'
+f5ddd25 chore: update Disney Plus Domains
+4d22617 Revert "luci-app-openclash: add zh_Hans soft links (#1806)" (#1808)
+ef1ccbc luci-app-openclash: add zh_Hans soft links (#1806)
+e351c13 v0.44.03-beta
+a62455e v0.44.02-beta
+43a781a chore: add media.dssott.com to fake-ip-filter
+078672d fix #1790
+d69e971 chore: add Disney Plus domains prefetch
+73d8251 fix #1794
+cac987d fix: YouTube Premium test logic
+bb64ce1 fix: error region for youtube premium
+240b9fe feature: add HBO and YouTube Premium unlock auto test&select
+49f65ed fix: error netflix region when us detected
+1df4e23 revert: nflxvideo.net rule
+a9034c8 fix typo
+87a680c fix: unix fromat
+f9c95a1 chore: update core
+529fe92 release: v0.44.01-beta
+422e37c chore: add core proxy provider filter support
+915b8a6 chore: update yacd
+d3ed194 fix #1765
+bdc7fb0 feature: add Netflix & Disney Plus unlock auto select
+7dd34e8 fix: revert wan src rule
+ef61450 chore: add mcdn.bilivideo.cn to filter
+160f18e fix: error cpu info
+da6fa44 Update Netflix_Domains.list
+8e31b8c Merge branch 'master' into dev
+7767f6e chore: remove game core debug
+fefbf92 feature:FFXIV相关域名加入Fake-IP域名黑名单 (#1757)
+a885555 fix typo
+2a7f769 chore: update yacd
+8465b6d chore: hide yacd fetch log
+62dc3aa fix: all domain udp type could not connect in fake-ip mode if not enable udp proxy
+36fe9f8 chore: add support for proxy NIC and fwmark
+d5fda37 chore: update dashboard
+a07b547 chore: show error log alert for core while start
+7703079 chore: update default fallback dns
+668c4d6 fix: unexpected quic firewall rule
+ef41d82 change: remove game core
+cd11edc fix typo
+13c8289 fix #1726
+72f523d v0.43.09-beta
+565de3d chore: update core
+9f4e3a8 fix translations
+a800839 Update Netflix_Domains.list
+fe8941b fix error log info
+d102296 chore: update default custom dns
+a84e67b fix: trojan ws/grpc network option missing
+b457d7a Revert "chore: update core"
+042ba37 v0.43.08-beta
+51f5db1 fix typo
+12909cf fix: 'custom rule provider use tun core' don't work (#1710)
+ad97728 chore: update core
+384e819 v0.43.07-beta
+f3b99b3 chore: update Netflix_Domains.list
+cbaf501 Update yml_change.sh (#1705)
+dda7c2b fix #1704
+57521c8 chore: support trojan websocket
+dfcfd9e chore: add backup button for config page
+4f91e64 fix: custom rule provider use tun core
+57ec83e fix typo
+88b23fe change: add Netflix domain name custom catch option
+1637d7e fix: add nflxvideo.net to fake-ip-filter for Netflix domains prefetch
+5a900ed fix restart after update chnroute
+cae8237 fix translations
+a289f0f change: add Netflix domains prefetch #1130
+d174fe6 chore: add persistence fake ip option
+6a6a1e3 chore: add option to complete Netflix IP rules #1683
+d5238d3 fix typo
+84c0f78 change: add quick start
+febb910 fix #1693
+5e8f3dd chore: DEPENDS add kmod-tun & libcap-bin #1667 #1584
+f8d43fc fix: show all file for custom rule provider
+4dd025a fix error cpu info #1679
+2b087ed chore: update codemirror
+1c621d6 chore: refine codes
+6bb2451 防火墙放行规则增加IP地址匹配 (#1688)
+8656194 fix: bugs #1680
+5aac428 fix: remove cache file
+98fdcc3 chore: support new cache file
+9410037 Merge branch 'dev'
+5641256 fix #1672
+4570177 Merge branch 'dev'
+c25ffb6 chore: update core
+c329cf5 Merge branch 'dev'
+215477f v0.43.06-beta
+1f61b8c 修正游戏规则里面战争雷霆与战争前线名称错误,已修正名称 (#1673)
+9885bd2 fix: ipv6 access control only when ipv6 gateway exist #1668
+12b12da chore: refine codes #1669
+fd33296 fix #1651
+791031f chore: update core
+1ac5242 chore: update openclash_custom_fake_filter.list
+5fe9630 fix typo
+cd9e084 chore: update dashboard
+c917f58 chore: add proxy mode button for client page
+10e0a9c fix: dlercloud Duplicate subscription informations
+f45604c chore: add sub settings while logging dlercloud
+53b2c6a chore: download configs while logging dlercloud
+ea2f1e1 chore: add all group option for custom proxy #1624
+e9d489d chore: refine codes #1630
+b9f9385 chore: add missing comment symbol for custom rule
+cfce0d8 同步修改配置文件中geoip为lite版本 (#1641)
+4b3bd12 chore: update core
+abc4058 fix: default-nameserver support ip[:port]
+1c84a08 v0.43.05-beta
+16b6776 fix: disable bind-address when ipv6 enable
+3b39dde fix: reject fakeip not effect
+dbf12c3 chore: update core
+ea3be95 fix: can not get dhcp info
+4d630b8 chore: update dashboard
+4fe459d chore: update yacd
+58097a0 fix #1613
+2934f12 Update openclash_custom_rules.list
+0e05b31 chore: custom rules support script shortcut
+f1d7d05 chore: fix style
+61684a4 fix bugs
+810a61f Update openclash_custom_fake_filter.list
+780ae94 fix #1602
+ef0e317 v0.43.04-beta
+6541a36 chore: add public dashboard address&port option
+21f9eb9 fix #1597
+8df1586 fix: clean log not refresh
+3d92a27 v0.43.03-beta
+5ad08cb fix #1591
+5d712cc fix: Hijack rule remove
+8bd1691 fix: QUIC rule remove
+44487b3 chore: update core
+2774b03 v0.43.02-beta
+5a28e6f fix: websocket error
+d2199d6 fix: Exclude Mainland China IP when rejecting QUIC connection
+ada39c3 change: auto add default-nameserver
+fe3cc07 fix: ruby cover not work if the file empty
+819e006 feature: append the upstream assigned DNS to the nameserver
+7b57a9a chore: add search model for CodeMirror
+3b59ccb fix: style
+e8b1db1 chore: add log level switch for log page
+599dd1c refine: log refresh
+5ce6d58 fix: log size limit
+7b20adc chore: update dashboard
+17f8899 chore: update js-yaml.min
+e201bff chore: update CodeMirror
+2a852e1 fix #1576
+d23f6f0 chore: add confirm while click restore config link
+f83459f fix: reject quic not work
+39c4bc9 fix #1571
+e827d60 fix #1570
+3d1994c chore: update openclash_custom_fallback_filter.yaml
+cd4580d chore: fix format when ruby read  ipv6
+f94c9af fix typo
+80124fc chore: add more support for ipv6
+4426ce8 fix typo (#1557)
+a5a6eda fix #1553
+1cd2a1c 初步实现 TProxy IPv6 透明代理 (#1318)
+68fbb24 chore: update dev core
+6df4256 Revert "chore: update dev core"
+086e7fc chore: update dev core
+a67f0b6 chore: add vmess WebSocket early data support
+0c1eb78 chore: refine codes
+f28b6df fix: error path with restore
+74e0ca3 fix typo
+08efe2a fix: firewall could not reload
+79844f2 fix: toolbar auto refresh after start when ws effect
+618de8a chore: add some notes for connection test failed
+3b00a3c chore: try to use websocket for toolbar first
+44c9e84 增加一个mmdb轻量版本，仅写入了iso_code和geoname_id，以达到缩小体积的目的 (#1543)
+414c794 chore: update core
+7c3bf48 fix #1538
+994ed21 v0.43.01-beta
+ba3e1b8 fix: bugs
+9016cf8 chore: update dashboard
+30d853a change: add connection dia && support plug backup and restore
+96ef34a chore: add more infos for toolbar
+1ccdb9c fix typo
+3adb6d8 chore: add config switch toolbar
+5c595af chore: refine codes
+6d42b20 fix translations
+680a9f6 fix: incorrect log message
+0792fac fix typo
+4c3733a change: remove bottom ad banner
+7740623 fix: #1499
+2fb9fb0 fix: #1498
+8efbf46 v0.42.10-beta
+51593e7 fix: error if info empty
+abf3f28 fix: #1491
+1ab1413 fix: cancel auto refresh core arch
+7331b65 v0.42.09-beta
+daab688 fix: #1488 #1487
+65b8eac fix: css style
+66245b7 fix: watchdog translations
+fcbdb18 v0.42.08-beta
+9693a6a chore: update core
+7f202da release: v0.42.07-beta
+c6a673d fix: dler option limit
+136b950 fix: Button stuck when login Dler Cloud
+3d73d34 chore: update components
+fe53039 change: add login model for Dler Cloud
+40ff007 change: add Dler Cloud model
+265067b change: add custom fallback-filter
+e7eb0e7 chore: ignore all .bak file
+33ef44e change: add tolerance option for url-test group
+7e3a400 fix typo
+fff3b6d chore: update dashboard
+713d9ad change: refine translations and bug fix
+5b5f9f7 change: remove jsonfilter
+3fc75c3 fix: accurately obtain and exclude local IP address
+de94c7e Merge branch 'master' into dev
+d085f9d fix bug
+3c2ccc8 Fix url for dashboard (#1454)
+f0a6ce1 Delete core_version.bak
+8741aff Merge branch 'master' into dev
+8f6758f chore: update core
+af1aa1d chore: update core
+974c478 fix: compatible with history's path
+f998308 fix typo
+ad130ce change: use core caches for groups restoring #1411
+7345f73 Update status.htm (#1428)
+69bbfed fix: revert button only effective for current page
+814f436 release: v0.42.06-beta
+bd6cc4a fix: save resolvfile after config restore
+85503a6 chore: update dashboard
+8c6215f fix: save dnsmasq's resolvfile path at first in case wronging restore
+cb3bda2 Merge branch 'master' into dev
+cc3d537 Update README.md (#1413)
+c9ebab0 change: ignore case sensitivity and speed up local proxy node filter while subscribe
+6a29409 Merge branch 'master' of https://github.com/vernesong/OpenClash
+beac068 adapt LuCI style of luci-theme-openwrt-2020 (#1402)
+9e4621d adapt LuCI style of luci-theme-openwrt-2020 (#1403)
+299bb8a adapt LuCI style of luci-theme-openwrt-2020 (#1404)
+485e1c5 adapt LuCI style of luci-theme-openwrt-2020 (#1405)
+77c75ed adapt LuCI style of luci-theme-openwrt-2020 (#1406)
+7717e5d adapt LuCI style of luci-theme-openwrt-2020 (#1407)
+2ec5e35 adapt LuCI style of luci-theme-openwrt-2020 (#1408)
+eb15b9d chore: refine backup rules
+ba55b3e bug fix
+f55951f change: add nameserver-policy support
+d39cf2b chore: update core
+f243456 change: add server url import
+fe38075 chore: update dashboard
+acf1bed Delete status.htm.bak
+6941845 chore: update game rules list
+053f830 chore: update dashboard & using query string to log on
+630283b change: add more groups for lhie1 rule
+ab6bd1a release: v0.42.05-beta
+b61030f chore: update bt prevented rules
+755a512 fix bug
+42fefb6 Merge branch 'master' into dev
+1e437f7 fix: fake-ip TUN模式和游戏模式下的转发问题 (#1357)
+0a52410 change: compatible with koolshare firmware with no capsh library dependent
+2b198d7 change: keep settings include rules while subscribing
+6a8fc38 完善暗色主题适配 (#1352)
+cdb7010 fix: typo
+ddca86c chore: update core
+12d866f chore: update dashboard
+a463461 禁用quic功能 (#1350)
+c88c22d release: v0.42.04-beta
+7233d22 chore: refine
+d6cb1bf chore: update core
+50b2ada Merge branch 'master' of https://github.com/vernesong/OpenClash
+016295b chore: update dashboard
+0b6c3fb upgrade yacd to 0.2.15 (#1322)
+184eb80 fix: #1327
+bb95dbd fix: Hackl0us chnroute maxelem limit (#1316)
+fecfe39 chore: update dev core
+ceb7bf3 chore: update dashboard
+992d260 chore: sync grpc support
+81daf1c fix: set lock while running
+be633b3 release: v0.42.03-beta
+cd7e74d Merge branch 'master' into dev
+aad5393 Merge pull request #1261 from 1715173329/updates
+e2a32e3 typo fix
+66625b0 chore: enable silent mode for uci and drop useless null redirction
+fa8af91 feat: add support for auto detecting core arch
+3850ad5 chore: add lhie1 tag
+ff63354 change: Example of modifying the format of excluded nodes
+0b7c1f7 change: exiting other rules update if incompatible proxy-group found
+703d9d5 fix: watchdog exited after config subscribe faild #1249
+5751d36 chore: update core #1247
+519e519 release: v0.42.02-beta
+c42c362 fix: error codemirror file
+fd6cc4f release: v0.42.01-beta
+4bd994c chore: update codemirror
+55fbe8d chore: update core
+05b48f2 change: add log size option and download button #1220
+0dd9173 fix #1222 #1223
+f0ff7a4 chore: update dashboard
+bfc6fff chore: update core
+f692bda chore: update core (#1225)
+1673aec Merge branch 'master' into dev
+00b2f46 Fix DNS-hijacking related firewall rules (#1183)
+1e9fd36 chore: update dashboard
+cfb1100 change: add dns port option
+e8bc3bb change: add auto restart
+395a7bc Merge branch 'dev'
+1cbfd93 chore: update core
+c413fb0 Merge branch 'dev'
+4ace53f v0.41.14-beta
+d3a95c0 Merge branch 'dev'
+8834ba5 fix: lhie1 rules
+be2b335 Update lhie1.yaml (#1145)
+76f604b Merge branch 'master' into dev
+c008e25 fix: could not restore history for chinese named profile
+07b3891 Update lhie1.yaml (#1140)
+1bd35a1 fix bug
+de4a0dd chore: update core
+c15ab3d chore: update core
+db527a9 fix: missing chinroute after reload
+0dd7530 v0.41.13-beta
+ac9ae13 chore: show the error info form history restore
+2bb0f0c fix #1089
+b314ef4 chore: more info in debug
+e831897 chore: update core
+2e5cd2f fix typo
+0ddbcfa v0.41.12-beta
+df89b1b v0.41.11-beta
+1207c3d v0.41.10-beta
+1dd70d7 fix typo #1083
+e618d40 v0.41.09-beta
+b3235c5 fix: luci can not save other rules settings
+e6e65a5 fix: other rules update
+795c7f9 fix #1080
+43a48fb change: add vmess h2 support
+ba7551f change: disable geoip with fallback-filter default
+adf6279 fix bug
+5b608c9 chore: refine codes
+f828d2f chore: update components library
+cb6be99 config: remove DoH of rixCloud (#1074)
+4f5a4cb fix: missing common port group
+3330d4c fix typo
+1c53fba v0.41.08-beta
+6558641 fix #1067
+b80215a fix: only hijack 53 port for google dns
+6b08f0f v0.41.07-beta
+b1d0214 chore: update dashboard
+367cd64 change: Improve config subscription logic
+25b18fa change: error url
+2073e95 fix: missing translation
+d34b8c4 change: add custom geoip & chnroute option
+4633b5f change: add common ports proxy mode for redir-host
+2c075b5 change: move the bt appended rules to the first
+2d3233b change: output infos if ruby load file error
+3ef6134 change: add dnsmasq redirect rules if lacked
+d26867d fix: bind-address can not be used by tun core
+9a3b5a1 v0.41.06-beta
+d717c92 change: add disable-udp for youtube group
+432704f change: add lock for restart scripts
+b695fa4 fix typo
+52b71b7 fix: get incorrect vmess http info
+e698708 chore: refine codes
+3309832 change: add interface-name option
+8ebcb89 fix typo
+1a91a3c fix #1042
+fbd558b fix: syntax error
+b2d0b65 chore: refine codes
+6304821 revert: yacd 0.2.5
+5945865 fix: provider missing groups
+ac2b6ab v0.41.05-beta
+1875d02 chore: update dashboard
+387f495 change: add tg link
+f5ed2cb fix #1031
+5476d62 improve: yaml file resolve speed
+f4270a6 fix #1024
+db517ec chore: update core
+3f64d9d v0.41.04-beta
+d3da58e fix: miss variable
+e3b64bf chore: output grammar check error detail after faild
+9400460 chore: output detail after subscribe faild
+78572e3 Grammar check: Identify empty files
+9bb5771 chore: input error info
+3f59334 v0.41.03-beta
+46f2961 fix typo
+c9326f4 fix #996
+69befb0 fix #997
+21a96e7 fix #998
+a4547dc v0.41.02-beta
+82221b1 chore: update package
+58ed9c7 fix: subscribe check
+6f1417d v0.41.01-beta
+921f129 change: add mixed port option
+a7674d0 fix: ConnersHua rules missing provider
+99ac6fa chore: refine codes
+c14a50c chore: refine codes
+cb9ddcb fix: prevent getting empty data
+f94391c refactory: add ruby yaml parser and emitter library
+cfafb10 chore: update dashboard
+10bc1e2 Update lhie1.yaml (#982)
+4790fd7 fix: incorrect dashboard port
+e633a4d v0.40.15-beta
+f416a91 fix: missing core type
+c360a33 fix: error translations
+5bd9fe0 Revert "fix: error translations"
+ac8a06c fix: error translations
+ebd533d chore: improve translations
+735a885 fix: incorrect codemirror fullscreen file addon path
+8746036 change: compare history file before replace
+7627a6c fix typo
+b85ed88 fix #941
+ff660cd chore: update core
+70e5568 change: try download by using cdn after fail
+4dceb64 fix: output capsh's error log
+d038d9a change: add privacy tip for debug
+c1a614d change: add fullscreen & yamllint for codemirror
+143bfc4 fix: can not recreate log file
+ad33e19 change: add log auto refresh
+9d8df30 change: add codemirror for config edit
+6a8fbdc Merge branch 'master' into dev
+b86cff9 fix: linksys router red led error (#931)
+b226fdf change: add round-robin support for load-balance group
+21c0d53 change: add more test for capsh
+1c3770d update core
+0431c2a v0.40.14-beta
+6af4da0 chore: update dashboard
+c1d7cac chore: update core
+c7ae1f6 fix: prevent loopback by setting interface-name
+3725583 fix: missing proxy-port while raw config reload
+660073b chore: update fake-ip-filter
+3baddf5 change: refresh yacd #917
+55f947f fix: stuck after redir-tun start
+d1a10c7 v0.40.13-beta
+7926fca revert: add fakeip reject rule
+b6b1ef0 change: downgrade yacd to 0.2.5
+a398d07 change: drop fakeip in redir mode
+197f786 change: show detailed firewall rules in debug
+937db58 change: modprobe  before tun start
+d0da480 change: test ipk before update
+7fac4a5 v0.40.12-beta
+2b3de65 core: update to the latest version
+ed401b1 revert: set core permission after download
+bafd73f chore: refine codes
+69529ca Merge branch 'master' into dev
+66e85d0 Merge branch 'dev'
+84c3ad6 Fix 'mmap: cannot allocate memory'. (#892)
+3a0a4e7 Exclude TCP/UDP ports in `Traffice Rules'. (#898)
+37fdd91 change: reduce the scope of router-self proxy
+ea20bff fix typo
+81258ee v0.40.11-beta
+8fab87b chore: update core
+467fe12 change: chmod path
+83aabf9 change: revert cpash option
+eb42052 change: use chown first prevent loopback
+182adda chore: update yacd
+7657a5f change: force bind all address in tun mode
+c6d941e fix #873
+0509f44 change: prevent empowerment failure
+a6dce7a fix #859
+45a0ce3 fix: remove incompatible codes
+a1b7d58 fix: invalid history config file name
+8982d09 v0.40.10-beta
+1f0b78f fix #842
+2788ae5 core: bump to the latest version
+085e630 v0.40.9-beta
+61510d7 fix #846
+3ce4dbf add port exclude rules for redirect #849
+ff4816c fix #848
+3ded102 fix #840
+db5b50a change: add capsh shell library check
+e32cd59 fix #841
+d6f13a0 fix #839
+ec41c86 change: add iptables-mod-extra depend
+c99d195 v0.40.8-beta
+594e22b chore: refine codes
+659d5b6 fix bugs
+cc9cb89 change: support router-self proxy & fix #836
+f78a18d core: bump to the latest version
+9ef6d56 change: add sni for http proxy
+51a0300 change: Increase waiting core ready time before restore history #833
+0a2034f fix #826
+ecc1b20 fix typo
+c78e27b fix bugs
+01f27ab v0.40.7-beta
+2541596 update core
+7c49baa add small flash memory option #811
+1d368b1 chore: update dashboard
+fd667f8 kill multiple clash processes
+c6d1a48 fix typo
+f159f4a fix error in debug log format
+0113418 fix #810
+95437c7 fix #805
+70f1dd6 fix typo
+d81bf6b fix bug #769
+18f5671 update core
+e911618 fix: use cdn for clash version check only clash disabled
+5e39a92 Revert "change: restore all the change in config file and try restart final"
+76eb955 change: restore all the change in config file and try restart final
+a88f6fd chore: refine codes
+d202160 fix #797
+962517f fix use cdn for version check only clash disabled
+8be9ac4 fix typo
+62b18d2 v0.40.6-beta
+01ee000 fix #784
+1749e4c fix #785 #787
+3b5fdef fix: mac address ac error #782
+e15c91f fix #780
+9b5a15d v0.40.5-beta
+48d8b2c change: use jsdelivr cdn when rules file direct download from github
+f34c17c change: use jsdelivr cdn when some file direct download from github
+222f3f2 feature: add ac depends on mac address #782
+3b9b377 core dev&tun: bump to the latest version
+6f9b5b0 fix: arrow button ineffective in IE
+c688a6c change: modify status page style
+be9080f chore: refine codes
+931f03b fix: makefile preinst error
+46af866 fix typo
+db1cf4d chore: add more ACL4SSR config for subscribe convert
+f3ce125 fix: show incorrect template's name
+b9a128a change: refactor files
+3f3bf43 feature: supprot subscribe convert with subconverter external configuration file
+5d68888 remove rixcloud DoH (#773)
+b476bf6 fix #771
+16d7b85 fix: #750
+6eb3d65 chore: refine codes
+6aa8402 core tun: bump to the latest version
+132f11a v0.40.4-beta
+10f9c2d chore: update yacd
+daede22 fix typo
+b399c33 fix #744
+11ff1d1 v0.40.3-beta
+cf3947e add WAN Bypassed List #659
+e46eb31 chore: update game rules & rule providers
+679d652 fix: other script rule incompatible
+3f36394 chore: add translation
+cfa5a74 v0.40.2-beta
+8c9a7f7 change: direct IPv6 traffic
+3c2b8e4 change: add one-key update button #731
+3edea2f fix #728
+fbef630 fix: update prompt exception
+1675c92 change: restart after update
+73d9a84 v0.40.1-beta
+b81f250 chore: update yacd
+fe8c1be fix: field recognition error
+d1f9090 fix translation
+333cee0 v0.39.9-beta
+9bd133c fix: ps command error
+d833ee8 fix: #717
+d2db491 fix: compatibility improvements
+a7aa433 fix: default config's syntax error (#713)
+dec5221 fix bugs
+b1c22e0 fix typo
+64442eb feature: add chnroute subscribe
+ed8c664 change: close all connections after restart
+a19abea change: add tolerance for url-test
+2e5f4cd core: bump to the latest version
+5406464 fix: bug
+2c0d8bb core tun: bump to the latest version
+877116d dev core: bump to the latest version
+bd5dd6e chore: update yacd
+51a4568 change: replace geoip database with https://github.com/alecthw/mmdb_china_ip_list
+aaa12d8 fix: #709
+98440dc fix: #700
+3f1a829 fix: allow tun&game core to run normal mode & compress tun core's size
+bd1b68c update preview
+8ef3527 core: bump to the latest version
+a05e23e fix #653
+7bd0a0d fix #693
+0e2f72a release: v0.39.8--beta
+5bba16b chore: update dashboard
+2fd7579 fix: allow multiple cores to update at the same time
+3ff48d9 fix #668
+c25acb6 change: test by https://cp.cloudflare.com/generate_204 default while config create
+1a91c4e fix bug #669
+a1235e8 fix typo
+ef30300 fix: empty servers with config create
+21f46d9 chore: update dashboard
+c121442 fix: prevent duplicate nodes
+b73fc6e change: improve default DNS and fallback-filter settings
+b975815 feature: add mix proxies option with config onekey create
+34700b0 fix: restart after update
+0d6e6de core dev&tun: bump to the latest version
+ce76bf4 release: v0.39.7-beta
+793414c fix typo: #652
+8f30c73 feature: add mix mode #647
+626e18e chore: update dashboard
+1c6d125 change: switch operation button's style
+53809f2 fix: create config error
+4577d82 Revert "fix: typo"
+deeefec fix: typo
+555505a release: v0.39.6-beta
+9e5d769 fix: lhie1 rules
+9b15f72 core dev&tun&game: bump to the latest version
+8c79c4d releases: v0.39.5-beta
+4466d00 fix #617
+34d9552 core-dev&tun: bump to the latest version
+f424c9c feature: bypass china ip route option for redir-host
+2e0ff44 feature: add specify DNS server for custom domains
+c371e44 change: add ssr support
+caa6777 core-dev&tun: bump to the version with ssr support
+5112fc8 core-dev: bump to v1.0.0-11-gae1e1dc
+6c6b58d fix typo & add doh from rix default
+099e8e4 change: remove rixCloud-Inc's rule set
+da52532 releases: v0.39.4-beta
+0b0d038 fix: cannot use ConnersHua rules
+10b6698 fix typo
+dda5196 fix: bugs
+52ed0fb releases: v0.39.3-beta
+9fade91 fix：exclude firewall redirect #525 #146
+52ed9cb chore: update dashboard
+efb4bd0 fix: bugs
+1d15740 fix #546
+bfb4cdf chore: update dashboard
+f00c03f fix typo
+e995891 chore: update dashboard
+716d936 chore: add rule-providers from rixCloud-Inc
+921144b fix #544
+cc59ea6 Delete core_version.bak
+8f33f08 v0.39.2-beta
+61cd195 Delete rule-providers-settings.lua.bak
+a15d8e7 change: add option for rule-set append position
+f31c9ba fix: replaced incorrect rule-providers path
+e5c8ccb fix #538
+41ce407 v0.39.1-beta
+b5d1a36 v0.38.10-beta
+bb62937 fix #535
+7a65c51 fix translation
+374df01 fix typo
+3ce38f4 core-dev&tun update to lastest version
+8066a94 v0.38.9-beta
+60fda2f feature: add other rule providers manage
+e3a23b9 fix typo
+41a210f chore: core-dev&tun update to lastest version
+3f11c2b change: add provider type rules from ConnersHua
+51f496d fix bugs
+e85342e v0.38.8-beta
+141dea7 fix typo #512
+6093c17 fix: rule option not enable
+8604b9b v0.38.7-beta
+8defde5 Update core_version
+a68b8b2 fix typo #508 #475
+c959e21 fix: error #506
+d9e22c6 fix bugs
+3827974 chore: add Minecraft-Dungeons game rules
+5b2d030 core-dev: bump to premium-12-g1a217e2
+843a6b9 chore: update dashboard
+77964cc fix: failed to start when components are updated at the same time
+48e1f17 v0.38.6-beta
+34bf1f0 fix: other rules bug #485
+1aa0fa0 v0.38.5-beta
+6ba7d4c change: adapt to new features with core
+f378a53 fix: exclude servers not work #481
+b7b7836 fix: other rules error #478
+496588c fix typo #444
+e648c58 fix: show error info after start faild
+78adb01 v0.38.4-beta
+52b0640 v0.38.3-beta
+b75a587 fix: get incorrect groups name
+5ad13b6 fix: can not revert firewall
+19a02b4 fix: replace manual download address for tun core
+555d44e fix typo
+3f7e319 fix: use script & rule-provider with tun core
+7512e48 Update core_version
+b25c8f9 v0.38.2-beta
+1bcb7a9 chore: update YACD
+d177ea3 fix typo
+072207f fix: can not restore global group state #445
+087887d change: sort script&rule_provider field while start
+db6b904 change: use new field name default
+a93eca1 fix: fake-ip-filter bug #431
+c7cb583 core-game: bump to 20200510
+4334451 change: replace core's download address for tun mode
+a7c13f4 fix: cron bugs #423
+61ed9a9 v0.38.1-beta
+b8d876f v0.20.0
+c130074 change: support proxy-group in relay
+bb044af fix: return local connections
+a3a37b2 fix: duplicate firewall rules after core upgrade
+9c1a080 core-dev: bump to v0.19.0-27-gb085add
+b08c640 change: use fake-ip-filter function instead of dnsmasq
+7f7f298 fix: Insufficient permissions to read UCI configuration #352
+913bc9d fix: disable real-ip with redir-tun mode
+6f9db22 fix: can not clear the firewall rules
+8d1cd04 fix: can not center the restore button
+f005c58 v0.37.6-beta
+5aed999 core-dev: bump to v0.19.0-26-g94e0e4b
+e0a10cb add more info for debug log
+8e2dbed change udp rules
+cac7268 try to increase file descriptors before core start #402
+d3beeb5 fix bugs
+d7226a5 core-dev: bumo to v0.19.0-25-g7d51ab5
+087c948 feature: try to reload config first instead of restart
+0c9d1cd Update openclash (#326)
+a629712 fix typo
+a3294b8 Update README.md
+a11a11b v0.37.5-beta
+91e37a1 core-game: bump to v0.17.0-100-g4d2ec55
+9da599e add debug page
+19724e0 core-game: bump to v0.17.0-96-gf62c491
+92f7635 chore: refine codes
+2cd6152 fix: can not restore group state with http 000 code
+4cdacb4 Revert "fix: can not restore group state with http 000 code"
+3f440c2 Revert "fix loop"
+3f6be74 fix loop
+94db538 fix: can not restore group state with http 000 code
+3d8b716 core-dev: bump to v0.19.0-19-g5036f62
+4982b19 update dashboard
+5e23326 fix: try use herf if the dashboard jump fail
+d764d94 Merge pull request #375 from tete1030/fix-watchdog-iptables
+ad2c6fc Fix watchdog checking iptables rules
+71d6eef fix bug #373
+2185100 Merge pull request #369 from project-openwrt/typo
+f8b065d init: fix typo error
+448f0f9 fix: sort provider does not work #364
+55f815e retry groups restore by using the curl command
+9371b92 v0.37.4-beta
+7c47e5c add ACL for controller
+bb88b12 fix: keep groups does not take effect
+ed69989 fix typo #346
+902fcbf update dashboard
+5e26dec add restore configration button
+5feffca Add ACL rule for new Luci
+df157f5 replace myip api
+d513441 v0.19.0-12-gb1cf2ec
+5f7d48a add MTG-Arena.rules
+137b81c fix bug
+ad9b266 keep core file while upgrade
+37cbfea fix bugs
+0657e00 v0.37.3-beta
+6771b33 fix typo
+46d7ad0 add core manage for tun
+16a038c v0.19.0-8-g2750c7e
+50d7923 Update core_version
+456994e fix: can not restore the group's state
+fd69a27 fix: bug #315
+251ddd0 fix: cannot read correct groups info
+6da0116 fix typo
+7c60855 v0.19.0-5-g5591e15
+02183ab add http network for vmess & update dashboard
+e3b8589 v0.19.0-4-g19f809b #280
+0c54053 fix:complement translation
+e93664b v0.37.2-beta
+0ca4560 v0.19.0-3-g2067672
+755ffc7 fix: bugs
+2b395cd fix typo
+a3a0cc3 fix: can not read proxy node #284
+a269512 v0.19.0-2-g518354e
+e9e6ba7 add pref for ip rule
+82a5a4e refine code
+922e623 fix: update error
+affcf62 v0.37.1-beta
+692c6dd v0.19.0-1-g86dfb65 #258
+afb930c fix typo
+7be8da7 change: GEOIP database download address
+f0ded5e fix: http&socks5 proxy node auth add error #262
+eb87521 rewrite http proxy node add
+9938c00 fix: incorrect proxy udp formalt
+168d68b add udp option for other proxy type
+92c1f74 v0.36.12-beta
+6ea0f81 fix: get incorrect alpn
+f7c6be9 typo fix
+4ac03dd add trojan support
+1a7c2ff fix dns after stop & delete firewall rule while enable redirect dns
+f201f72 v0.18.0-17-g74fb16b
+5f27259 fix typo & update dashboard
+b82f6e4 add rules for passing bt
+7de4519 v0.36.11-beta
+5c7e07d fix typo
+1c98afe #234
+9e276b2 Merge pull request #234 from thank243/master
+ba88a74 Merge branch 'master' into master
+8870d23 Update version
+b9a1e75 v0.36.10-beta
+1111d9e Update openclash_rule.sh
+a65868b Update openclash_version.sh
+cee267b Update openclash_update.sh
+cbc012c v0.18.0-15-g9471d80
+2c8bfa9 bug fix
+950e4a6 use auth while download & update rules
+7a51bde add operation mode tab & access control with redir-host
+f0661cd Fix bug in updating custom rules and rules2
+2505397 add exclude keyword for subscribe #220
+f6089cc add an option to allow insert custom rules after 3rd-party rules #172
+59edc2e update dashboard
+75e2418 v0.18.0-14-gb263095
+88b0d1c update dashboard
+0ec25f0 ConnersHua rules download fix
+e08404f typo fix
+4b0a44b v0.36.9-beta
+51192c1 v0.18.0-13-g14d5137
+3447fd7 typo fix
+167f4e3 add option for enable udp troxy
+fda643a redir udp with tproxy
+7bc9b9d lhie1更新路径修改
+e4d20bf add config check view for config manage's page
+962ba4b download file use http proxy while clash enable
+c473a0e  Exclude IP #195 #170
+41705f7 fix typo
+d2c9068 Update openclash.lua
+f58d5c9 Update openclash.lua
+1faf696 Update openclash.lua
+2bf31c1 Update openclash.lua
+25f935f Organize the codes
+587b7d8 encode before history set
+10518cb Update yard to v0.1.9 with query sting setting support
+6883737 Update openclash_update.sh
+95c4c80 Update openclash_core.sh
+052de43 Update openclash_core.sh
+07efb26 Update openclash_update.sh
+ed1af13 To get current lan ip address
+52a31a5 v0.36.7-beta
+83646f1 chore: update rules
+67d1b77 skip tcp dns query & update dashboard
+9d88b11 Update openclash_update.sh
+fc4445c Update openclash_core.sh
+9f9af92 Update openclash.sh
+95e8283 v0.18.0-15-g9471d80
+32f8563 bug fix
+28981ff use auth while download & update rules
+9c961bb add operation mode tab & access control with redir-host
+7c2c7fe Merge pull request #229 from yangliu/master
+6c2a6f0 Merge remote-tracking branch 'upstream/master'
+79942df Fix bug in updating custom rules and rules2
+0024dcb add exclude keyword for subscribe #220
+576414d add an option to allow insert custom rules after 3rd-party rules #172
+d567f8b update dashboard
+b48ce77 v0.18.0-14-gb263095
+b85a18a update dashboard
+5aeb6fb ConnersHua rules download fix
+326ef4b typo fix
+893cd97 v0.36.9-beta
+9f5e649 v0.18.0-13-g14d5137
+353ec21 typo fix
+961950d add option for enable udp troxy
+ff68251 redir udp with tproxy
+4431cb0 Merge pull request #209 from fanlide/master
+76a705c lhie1更新路径修改
+7bf218c add config check view for config manage's page
+9fb0763 download file use http proxy while clash enable
+51ba079  Exclude IP #195 #170
+78ef588 fix typo
+559523f Merge pull request #184 from ohsc/patch-2
+eb5a0f9 Update openclash.lua
+65bec2f Update openclash.lua
+85ab471 Update openclash.lua
+afca551 Update openclash.lua
+7794a1d Organize the codes
+34be6f6 encode before history set
+48b18fe Merge pull request #180 from thank243/patch-3
+7a5b9ab Merge pull request #179 from thank243/patch-2
+c5e6ea3 Merge pull request #177 from thank243/patch-1
+cf16921 Merge pull request #188 from ohsc/patch-3
+8b1830d Update yard to v0.1.9 with query sting setting support
+87ebad7 Update openclash_update.sh
+8d53956 Update openclash_core.sh
+1dbfe3c Update openclash_core.sh
+18fd298 Update openclash_update.sh
+a980a74 To get current lan ip address
+7de3b1d v0.36.7-beta
+509aa1a chore: update rules
+0aaf509 skip tcp dns query & update dashboard
+3709cdb Update openclash_update.sh
+6555ab3 Update openclash_core.sh
+5c29edf Update openclash.sh
+8be4353 Update README.md
+737859b typo fix
+cd19944 Update core_version
+af93dbc Merge pull request #174 from project-openwrt/fix-makefile
+c7b762b Avoid git pollution
+5c610f4 Merge branch 'master' of https://github.com/vernesong/OpenClash
+07150fe bug fix
+df74bfb Create FUNDING.yml
+06670f4 add domain for unblockneteasemusic #158
+8321aaa fix add fallback-filter issue #156
+bdb056c v0.17.1-31-g609869b
+3a106e7 add tcp+tls for vmess proxy manage #155
+ee9ab6d v0.17.1-28-gf3f8e7e
+02ee67c add loop mode for config update #153
+72a923a core version check error fix
+2d62783 typo fix
+7650fe8 typo fix
+e10c975 v0.36.6-beta
+e0bd810 bugs fix
+cd35e4e typo fix
+c86f076 v0.36.5-beta
+3fc8b4e Check the position of each part before start
+2ad04be typo fix
+5c035b5 Allow proxying frequently used domain names for router itself with redir-host mode
+b5b2361 bug fix
+8a33c26 Update README.md
+52c2c7d developer's view change
+82663e5 yacd dashboard's location change #133
+1b509eb v0.17.1-18-gafc9f3f
+35e5c33 typo fix
+5420895 v0.36.4-beta
+c23dc55 Feature: restore configuration after restart #13
+63d6bbc v0.36.3-beta
+7820f43 bugs fix
+467331d Update core_version
+4216bda Update README.md
+073b876 Update developer.htm
+75a3a82 update preview
+ebe5428 update preview
+1a28d91 typo fix
+bfc5992 bugs fix
+eeab848 bug fix
+8ad82bf v0.36.2-beta(Game Mode Test)
+8eebda4 Adaptation lhie1's rule change
+6a4cf22 bug fix
+0469f17 Game support beta with core form https://github.com/comzyh/clash
+11b9276 bugs fix
+5c5a1c9 Allow change node & group's config file with luci page
+707f5c1 Support Proxy-Provider
+89fd87e config create bug fix
+a0e0667 v0.36.1-beta
+d2b8346 v0.17.1-1-g86d3d77
+70c3be9 cbi file missing fix
+6a7ec80 Folders missing fix
+4cc3294 typo fix
+3a69d07 TUN mode support
+16d0e74 Adaptation rule update and bugs fix
+65a28ce Support multiple Configs and bugs fix
+be7a265 update dashboard
+bcac1ce v0.16.0-33-geae06a4
+9bd2d42 v0.16.0-32-g0822b52
+824a932 delete chacha20 encrypt methods
+efc1c30 v0.35.6-beta
+3bc0cf3 v0.16.0-18-g8e10e67
+5d25165 bug fix
+e8eaf26 bug fix
+94771ea v0.35.5-beta
+999dd09 update yacd
+b9e1193 typo fix
+a17a0b1 My ip refresh bug fix
+f6b7410 bug fix
+0756e92 update dashboard
+db1a064 typo change
+71bc030 bug fix
+92bc8c1 v0.35.4-beta
+d47bfd5 bug fix
+309d407 update dashboard
+4ce5edb Update core_version
+eb81c54 change dns listen address
+d953f8b v0.35.3-beta
+25353bb Identifiers change
+d5d8962 typo change
+d718f3f add developers
+948f1ed typo fix
+147fccc add domain lists  for unblockmusic
+09dd499 Improving subscription success rate
+19166c0 typo fix
+35ae6da v0.35.2-beta
+97bca08 Translations fix
+fd04e22 typo fix
+43ee890 v0.35.1-beta
+fea91da typo fix
+37ddc09 v0.35.0-beta
+f689057 translations change
+9b3bf1a bugs fix
+79e0006 v0.15.0-53-g50d2e08
+ab943b9 snell support
+6d49da6 add proxy mode select setting
+63b000b notify of IPV6's dhcp server state while start
+5b9d635 Some improvements
+e1d953e Feature: Custom choose server nodes and keep the third party rule's proxy groups settings while subscribe
+c637684 bug fix
+aa62dc6 bugs fix
+6a800ed v0.34.7-beta
+f4d4d06 Force Enable DNS Hijack
+b5c4e8c version change
+b327f8f version change
+51cb5b3 change timeout set
+6190469 typo fix
+cbfbd27 bugs fix
+17461d7 fix bugs when configurations commit
+90ef159 typo fix
+ada230f bugs fix
+83c78bd firewall commands bug fix
+5f03d13 refine codes
+bd484b2 Version change
+72f8835 Update README.md
+ab30d15 typo fix
+3488083 refine codes
+40ac08e refine codes
+92d4ba9 bugs fix
+8e9f848 group infos get bug fix
+01cd6a5 Update default.yaml
+573b4b8 Delete backup config before manual update
+f87d5c1 change fallback-filter parameter add logic
+71d768b typo fix
+6c02d94 Update version
+5a06e9c Update core_version
+ab73ab0 bugs fix
+bc3f8b3 reduce the ss encrypt methods
+9901190 Update default.yaml
+8907c79 Update core_version
+60ea28e Update version
+06fd731 add qq.con to avoid quick login anomaly
+e270fac update dashboard
+dcac2ef formalt transfer
+b2077e8 disable autocrlf
+20545e7 Improvements and Adapt to the latest clash dev branch's commit
+f3c20c5 bug fix
+74b5776 Update Makefile
+4ca4382 Update version
+0661125 bug fix
+35c655d bugs fix
+dd661e6 Update version
+ba89ffb Improve Server&Group Manage
+2f6027f bug fix
+de9f80c bug fix
+2fdd391 bug fix
+35355e6 update yacd
+00e74fc Update core_version
+afa5d68 Update version
+95c32d6 feature: servers manage and config file create
+1a46b26 chore update
+5044a34 fix watchdog redirect firewall rule
+81b1e72 firewall bugs fix
+38ab429 Update core_version
+cfacb22 Update Dashboard
+644fd8e fix typo
+b109bd7 Update core_version
+5162448 Update README.md
+4892d6b tutorial view
+c01490b Update core_version
+3b6e0e2 Merge branch 'master' of https://github.com/vernesong/OpenClash
+447beee Update version
+7cc6364 Update README.md
+6296548 Update README.md
+5864488 Update wallet picture
+a1ef9c0 Add blacklist for fakeip
+cf56702 version change
+f72a5e5 bug fix
+8129c47 bugs fix
+b790310 fake-ip support for luci-app-unblockmusic
+14e41f5 clash prevention
+63851d3 bugs fix
+b78ea0b Update version
+89ad53f bugs fix
+d5147b5 bugs fix
+0e989db Update version
+86a680d typo change
+681ffef Translations change
+d85394a Add blacklist tutorials
+394a3b4 use dnsmasq for avoiding clash
+f0408a6 Standardize the way of adding firewall commands
+88c28d8 Version update
+9460adb Update default.yaml
+85c6e45 Update README.md
+435db18 Update README.md
+3aca154 Update README.md
+6f7d4a3 Remove unnecessary parameters
+3f3d275 Increase the success rate of startup
+540f82c bugs fix
+7e40cc7 update overview
+641fce0 Update core_version
+d7346c5 Update settings.lua
+1d82a2c Update version
+dcdf61d few changes
+d7310a2 bugs fix
+daf2f98 Bugs fix
+ad9726b supprot subscribe surge&v2ray url
+b02259a Proxy Group name gain bug fix
+2a7f41c Update version
+c957576 Update version
+129433a version change
+e514e82 bugs fix and Interface optimization
+02f2aef support custom hosts
+158b76e fix: ip check display delay when network anomaly
+a70d143 update dashboard
+dfdd8a5 fix: unable to get arch
+82c2795 fix: Lag when load page
+e26310d Update openclash.zh-cn.po
+044cefa bugs fix
+ebc7bc8 Translations change
+ca7bc1c Update core_version
+daa6985 Update openclash_core.sh
+3a93243 Release v0.33.0-beta
+7e740ca Update version
+201349f Update README.md
+f0a010a Update core_version
+5338a91 Create core_version
+45176a2 Update version
+09bfdde Release v0.32.3
+fca32a3 Enhance functional compatibility for the original OpenWrt version
+757874c Depend add
+28cae50 Update version
+0c2253c Update README.md
+c13d4cd Update README.md
+92373c5 Update preview
+cc12485 Bug fix
+c0d8760 Update README.md
+53f63ec Merge branch 'master' of https://github.com/vernesong/OpenClash
+a4ff367 Anti-dementia startup
+2d3c778 Update README.md
+8b9593f show log when config check error
+3155c3e Fix for mode select do not work when unexpect word exist
+d298b1c Elements alignment
+07ada08 Release v0.32.1
+ec6c4fa Bugs fix
+1d7f4b9 Preview update
+bfa1cf1 Release v0.32.0
+0f29f21 fix ipdb update error
+f8cfd87 Release v0.31.1
+ba59def Translations change
+6af433c Update README.md
+99b476d Prevent update errors
+9d4c6ad Release v0.31.0
+32d20ff add default.yaml
+e8836ba Bugs fix
+3296268 Update settings.png
+a2f3bd3 Merge branch 'master' of https://github.com/vernesong/OpenClash
+d60c081 Update settings.png
+7768c03 Update README.md
+d52a6c5 update readme
+1919fb1 Release v0.30.3
+50fd756 bug fix
+7d9abca Bugs fix
+f519f83 apply button bug fix
+14d25da infos change
+f19fe44 Delete openclash.zh-cn.po.bak
+4c6ffe9 For clash dev: use yaml default
+45d3add Support DoH Type DNS Custom
+421a24d config upload bug fix
+4fa9746 Update Makefile
+408ce47 Update Makefile
+5b204d3 Update Makefile
+898c110 release v0.30.2
+9ed470c update preview
+20a9964 Update openclash_version
+46110a6 Update version
+43ccb90 Update version
+f4d6254 Update README.md
+60dc382 bug fix
+417a4b3 release v0.30.2
+9b21e0d add more infos on state page
+46774b8 bug fix
+54c4447 fix: edit config file with luci what not effect sometimes
+2fd7986 add apply button for update page
+e00a11a bug fix
+6a74c3f Merge branch 'master' of https://github.com/vernesong/clash-for-openwrt
+1838f3a release v0.30.1
+e729533 Update README.md
+a5d8a97 Update version
+3dc2ade add other rules daily update & change config file from luci
+7baddba Compatible with config.yaml
+258520a translations change
+fa4149f update dashboard
+1a799b7 Reduce configuration checks
+1dc7d63 Reduce configuration checks
+835d894 Update openclash_watchdog.sh
+1699acf Update version
+4b184d2 Update README.md
+5136c54 Update Makefile
+74338a3 sources code
